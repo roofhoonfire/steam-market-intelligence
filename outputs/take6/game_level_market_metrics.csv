@@ -1,0 +1,46 @@
+appid,title,group,selection_reason,steamspy_owners_raw,steamspy_owners_low,steamspy_owners_high,steamspy_price_usd,steamspy_initial_price_usd,steamspy_discount_pct,steamspy_positive,steamspy_negative,steamspy_total_reviews,steamspy_positive_rate,steamspy_ccu,steamspy_average_forever_raw,steamspy_median_forever_raw,steamspy_tags,steamspy_top_tag,sample_reviews,sample_recommend_rate,purchase_subset_reviews,purchase_subset_recommend_rate,median_playtime_at_review_h,q25_playtime_at_review_h,q75_playtime_at_review_h,median_num_reviews,received_for_free_share,steam_purchase_share,price_band
+1783360,Meg's Monster,core,Short story-driven turn-based indie JRPG,"20,000 .. 50,000",20000,50000,14.99,14.99,0,1039,33,1072,0.9692164179104478,8,0,0,"['Indie' 'Pixel Graphics' 'Linear' 'JRPG' 'Adventure' '2D' 'Emotional'
+ 'Singleplayer' 'Wholesome' 'Turn-Based' 'RPG' 'Underground' 'Story Rich'
+ 'Interactive Fiction' 'Soundtrack' 'Funny' 'Cute' 'Colorful'
+ 'Family Friendly' 'Retro']",Indie,300,0.95,242,0.9586776859504132,5.2,4.25,6.574999999999999,23.0,0.03666666666666667,0.81,$10-15
+1677310,In Stars And Time,core,Story-rich turn-based RPG with distinctive visual identity,"100,000 .. 200,000",100000,200000,19.99,19.99,0,6035,149,6184,0.9759055627425615,152,0,0,"['Story Rich' 'RPG' 'LGBTQ+' 'Emotional' 'Party-Based RPG' '2D'
+ 'Turn-Based Combat' 'Lore-Rich' 'Singleplayer' 'Psychological Horror'
+ 'Fantasy' 'Stylized' 'Pixel Graphics' 'Time Travel' 'Atmospheric'
+ 'Hand-drawn' 'Choices Matter' 'Indie' 'Cartoon' 'Anime']",Story Rich,750,0.9586666666666667,624,0.9551282051282052,28.958333333333332,20.570833333333333,38.708333333333336,8.0,0.024,0.8333333333333334,$15-25
+1320140,Small Saga,core,Tightly-focused no-grinding strategic turn-based RPG,"50,000 .. 100,000",50000,100000,19.99,19.99,0,1828,83,1911,0.956567242281528,4,0,0,"['RPG' 'Indie' 'Turn-Based Combat' 'JRPG' 'Fantasy' 'Pixel Graphics'
+ '2.5D' 'Party-Based RPG' 'Story Rich' 'Isometric' 'Medieval' 'Colorful'
+ 'Adventure' 'LGBTQ+' 'Linear' 'Dark Fantasy' 'Nature' 'Exploration' '2D'
+ ""1990's""]",RPG,750,0.9546666666666667,632,0.9541139240506329,8.908333333333333,7.216666666666667,11.3125,12.0,0.018666666666666668,0.844,$15-25
+854940,Ikenfell,core,Story-rich tactical RPG with distinctive combat mechanics,"100,000 .. 200,000",100000,200000,19.99,19.99,0,1063,107,1170,0.9085470085470085,4,0,0,"['Indie' 'RPG' 'LGBTQ+' 'Pixel Graphics' 'Female Protagonist' 'Story Rich'
+ 'Singleplayer' 'Fantasy' 'Great Soundtrack' 'JRPG' 'Retro' 'Turn-Based'
+ 'Turn-Based Tactics' 'Cute' 'Magic' 'Isometric' 'Turn-Based Combat'
+ 'Adventure' '2D' 'Tactical RPG']",Indie,750,0.8986666666666666,371,0.9460916442048517,21.616666666666667,11.720833333333333,28.45,19.0,0.032,0.496,$15-25
+510540,Long Gone Days,core,Narrative-focused turn-based indie RPG,"0 .. 20,000",0,20000,24.99,24.99,0,442,51,493,0.896551724137931,1,0,0,"['Political' 'Story Rich' 'JRPG' 'Choices Matter' 'Military' 'Anime'
+ 'Party-Based RPG' 'Drama' 'RPG' '2D' 'Turn-Based Combat'
+ 'Alternate History' 'Emotional' 'Singleplayer' 'Modern' 'War'
+ 'Pixel Graphics' 'Narrative' 'Visual Novel' 'Political Sim']",Political,361,0.8725761772853186,289,0.8719723183391004,7.15,3.845833333333333,13.0875,13.0,0.030470914127423823,0.8116343490304709,$15-25
+420530,OneShot,positioning,Short highly distinctive narrative indie experience,"1,000,000 .. 2,000,000",1000000,2000000,9.99,9.99,0,52785,919,53704,0.9828876806196931,76,0,0,"['Story Rich' 'Pixel Graphics' 'Indie' 'Great Soundtrack' 'Cute'
+ 'Atmospheric' 'Puzzle' 'Singleplayer' 'Choices Matter' 'Adventure'
+ 'Multiple Endings' 'RPGMaker' '2D' 'Exploration' 'Surreal' 'RPG'
+ 'Replay Value' 'Psychological Horror' 'Casual' 'Anime']",Story Rich,750,0.9693333333333334,674,0.9673590504451038,7.3,5.1375,10.016666666666667,6.0,0.018666666666666668,0.9066666666666666,$5-10
+206440,To the Moon,positioning,Short story-focused low-price indie experience,"2,000,000 .. 5,000,000",2000000,5000000,9.99,9.99,0,77246,3015,80261,0.9624350556310038,86,0,0,"['Story Rich' 'Great Soundtrack' 'Indie' 'Emotional' 'RPGMaker'
+ 'Pixel Graphics' 'Adventure' 'Singleplayer' 'Interactive Fiction'
+ 'Romance' 'RPG' 'Short' '2D' 'Funny' 'Psychological' 'Retro' 'Cute'
+ 'Linear' 'Casual' 'Female Protagonist']",Story Rich,750,0.924,670,0.9238805970149254,4.583333333333333,3.8666666666666667,5.829166666666667,11.0,0.008,0.896,$5-10
+337340,Finding Paradise,positioning,Story-focused emotional indie experience,"500,000 .. 1,000,000",500000,1000000,9.99,9.99,0,18353,410,18763,0.9781484837179556,16,0,0,"['Story Rich' 'Emotional' 'Pixel Graphics' 'Adventure' 'RPG' '2D'
+ 'Singleplayer' 'Funny' 'Atmospheric' 'Interactive Fiction'
+ 'Psychological' 'Drama' 'Top-Down' 'Comedy' 'Cute' 'Female Protagonist'
+ 'Retro' 'Romance' 'JRPG' 'RPGMaker']",Story Rich,750,0.9733333333333334,649,0.9815100154083205,5.6,4.75,6.845833333333333,23.0,0.013333333333333334,0.8693333333333333,$5-10
+1182620,Impostor Factory,positioning,Short narrative-driven distinctive indie experience,"500,000 .. 1,000,000",500000,1000000,9.99,9.99,0,11287,486,11773,0.9587191030323622,12,0,0,"['Story Rich' 'Emotional' 'Pixel Graphics' 'Adventure' 'RPG' '2D'
+ 'Singleplayer' 'Top-Down' 'Atmospheric' 'Psychological Horror' 'Comedy'
+ 'Mystery' 'Narrative' 'Interactive Fiction' 'Lovecraftian' 'Linear'
+ 'Cute' 'Funny' 'Retro' 'JRPG']",Story Rich,750,0.9306666666666666,633,0.9320695102685624,4.116666666666666,3.533333333333333,5.016666666666667,24.0,0.016,0.8466666666666667,$5-10
+1086940,Baldur's Gate 3,benchmark,Large premium RPG benchmark,"20,000,000 .. 50,000,000",20000000,50000000,44.99,59.99,25,736688,23974,760662,0.9684827163707402,54771,0,0,"['RPG' 'Character Customization' 'Choices Matter' 'Story Rich'
+ 'Turn-Based Combat' 'Dungeons & Dragons' 'CRPG' 'Fantasy' 'Adventure'
+ 'Sexual Content' 'Romance' 'Online Co-Op' 'Multiplayer' 'Strategy'
+ 'Singleplayer' 'Co-op Campaign' 'Nudity' 'Class-Based' 'Dark Fantasy'
+ 'Combat']",RPG,750,0.944,670,0.9402985074626866,135.30833333333334,53.1625,262.79166666666663,4.5,0.0026666666666666666,0.8933333333333333,$25+
+1245620,ELDEN RING,benchmark,Large premium RPG benchmark,"20,000,000 .. 50,000,000",20000000,50000000,59.99,59.99,0,981540,75137,1056677,0.9288931243890044,29529,0,0,"['Souls-like' 'Open World' 'Dark Fantasy' 'RPG' 'Difficult' 'Action RPG'
+ 'Third Person' 'Multiplayer' 'Fantasy' 'Singleplayer' 'Online Co-Op'
+ 'Action' 'Co-op' 'Atmospheric' 'PvP' 'Great Soundtrack' 'Violent' '3D'
+ 'Character Customization' 'Family Friendly']",Souls-like,750,0.9306666666666666,539,0.9443413729128015,101.0,39.35,207.0,4.0,0.012,0.724,$25+

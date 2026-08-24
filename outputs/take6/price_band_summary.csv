@@ -1,0 +1,5 @@
+price_band,games,mean_recommend_rate,median_game_playtime_h
+$10-15,1,0.95,5.2
+$15-25,4,0.921,15.262
+$25+,2,0.937,118.154
+$5-10,4,0.949,5.092

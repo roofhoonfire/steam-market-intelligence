@@ -1,0 +1,1822 @@
+[
+  {
+    "cluster_id": 21,
+    "cluster_stats": {
+      "reviews": 366,
+      "games_present": 11,
+      "recommend_rate": 0.9809,
+      "median_playtime_h": 5.62,
+      "dominant_game": "To the Moon",
+      "dominant_game_share": 0.2623
+    },
+    "representative_reviews": [
+      {
+        "title": "ELDEN RING",
+        "voted_up": true,
+        "playtime_h": 176.95,
+        "text": "I had the most fun and despair times of my life."
+      },
+      {
+        "title": "ELDEN RING",
+        "voted_up": true,
+        "playtime_h": 892.25,
+        "text": "If you ever find yourself in a dying relationship or just sad in general, this game is a perfect distraction from those feelings"
+      },
+      {
+        "title": "Baldur's Gate 3",
+        "voted_up": true,
+        "playtime_h": 266.0,
+        "text": "When I see how much I spent on the game I want to cry, but also I don't regret it"
+      },
+      {
+        "title": "Meg's Monster",
+        "voted_up": true,
+        "playtime_h": 6.53,
+        "text": "you will cry. it's too good"
+      },
+      {
+        "title": "Meg's Monster",
+        "voted_up": true,
+        "playtime_h": 8.1,
+        "text": "This game is a gem. It's more akin to a VN with some RPG elements, but the story is why I played it. The premise caught my eye, the music heightened the emotions and the story broke the dam behind which my tears lie. I will now and alwats hold this game close to my heart, and I hope you give it a shot too."
+      },
+      {
+        "title": "Baldur's Gate 3",
+        "voted_up": true,
+        "playtime_h": 183.55,
+        "text": "I hope this doesn't awaken anything in me..."
+      },
+      {
+        "title": "Impostor Factory",
+        "voted_up": true,
+        "playtime_h": 3.85,
+        "text": "Amazing game, had me crying."
+      },
+      {
+        "title": "Impostor Factory",
+        "voted_up": true,
+        "playtime_h": 4.15,
+        "text": "Please give me my tears back, they are precious to me."
+      },
+      {
+        "title": "Finding Paradise",
+        "voted_up": true,
+        "playtime_h": 5.17,
+        "text": "no fair, who's gonna pay me back for the tears I dropped..."
+      },
+      {
+        "title": "Finding Paradise",
+        "voted_up": true,
+        "playtime_h": 3.37,
+        "text": "I didn't cry, my room was just very dusty... I swear!"
+      },
+      {
+        "title": "In Stars And Time",
+        "voted_up": true,
+        "playtime_h": 131.57,
+        "text": "the most ive cried at a game ever i think its pretty good"
+      },
+      {
+        "title": "In Stars And Time",
+        "voted_up": true,
+        "playtime_h": 24.08,
+        "text": "ts so fire, i genuinely cried"
+      },
+      {
+        "title": "OneShot",
+        "voted_up": false,
+        "playtime_h": 5.62,
+        "text": "made me cry too hard"
+      },
+      {
+        "title": "To the Moon",
+        "voted_up": false,
+        "playtime_h": 5.15,
+        "text": "What a monumental waste of time. I am in utter disbelief this has such a high rating. It's raining outside in NZ, and instead of hiking, I wanted to play a cozy game with easy gameplay and a nice story, and I got this hallmark movie. I'm upset I just spent 5 hours playing this game that shows every bit of its age. The dialogue is cringe, there is no nuance to the story or the characters and the benign gameplay disrupted the muted emotional story beats anyways. I witnessed a better love story this afternoon when a stray cat came in to the apartment and my gf tried to kidnap it. This was less like a visual novel and more like a ♥♥♥♥♥♥ telanovela. The score was alright, albeit unimpressively inspired by actually good JRPG scores. Go watch Eternal Sunshine of a Spotless Mind instead, it will only take half the time and you'll have a better experience and an actually good soundtrack."
+      },
+      {
+        "title": "Small Saga",
+        "voted_up": false,
+        "playtime_h": 4.1,
+        "text": "got to the tower invasion, the group turned into a bunch of republican hating erotards emediatly turned me off from playing the rest of the game even after the mc getting stabbed in the eye i just couldn't care anymore"
+      }
+    ]
+  },
+  {
+    "cluster_id": 20,
+    "cluster_stats": {
+      "reviews": 302,
+      "games_present": 11,
+      "recommend_rate": 0.9901,
+      "median_playtime_h": 22.97,
+      "dominant_game": "ELDEN RING",
+      "dominant_game_share": 0.2682
+    },
+    "representative_reviews": [
+      {
+        "title": "ELDEN RING",
+        "voted_up": true,
+        "playtime_h": 1313.68,
+        "text": "The worst perfect game I've ever played."
+      },
+      {
+        "title": "ELDEN RING",
+        "voted_up": true,
+        "playtime_h": 170.57,
+        "text": "Could be the greatest game of all time"
+      },
+      {
+        "title": "OneShot",
+        "voted_up": true,
+        "playtime_h": 10.7,
+        "text": "10/10 one of the best games ever made. Once in a lifetime experience. Best monet ever spent"
+      },
+      {
+        "title": "OneShot",
+        "voted_up": true,
+        "playtime_h": 6.67,
+        "text": "One of the best games I've ever played"
+      },
+      {
+        "title": "Baldur's Gate 3",
+        "voted_up": true,
+        "playtime_h": 120.12,
+        "text": "One of the best games ngl"
+      },
+      {
+        "title": "In Stars And Time",
+        "voted_up": true,
+        "playtime_h": 22.07,
+        "text": "One of the best games I've ever played, \"nya\"~"
+      },
+      {
+        "title": "In Stars And Time",
+        "voted_up": true,
+        "playtime_h": 15.4,
+        "text": "One of the greatest games I've ever played"
+      },
+      {
+        "title": "Baldur's Gate 3",
+        "voted_up": true,
+        "playtime_h": 295.5,
+        "text": "one of the greatest games of all time, no exaggeration."
+      },
+      {
+        "title": "Impostor Factory",
+        "voted_up": true,
+        "playtime_h": 3.0,
+        "text": "Massive W. Best game in the series in my opinion."
+      },
+      {
+        "title": "Impostor Factory",
+        "voted_up": true,
+        "playtime_h": 3.47,
+        "text": "genuinely one of the best games I've ever played 100%, I'm going to be thinking about this one FOREVER."
+      },
+      {
+        "title": "Finding Paradise",
+        "voted_up": true,
+        "playtime_h": 35.03,
+        "text": "One of my favorite games of all time from one of my favorite game series of all time."
+      },
+      {
+        "title": "To the Moon",
+        "voted_up": true,
+        "playtime_h": 5.32,
+        "text": "Best game ever made by humanity"
+      },
+      {
+        "title": "Ikenfell",
+        "voted_up": false,
+        "playtime_h": 38.43,
+        "text": "bro wut is this game"
+      },
+      {
+        "title": "ELDEN RING",
+        "voted_up": false,
+        "playtime_h": 9.45,
+        "text": "this game is genuine slop"
+      },
+      {
+        "title": "ELDEN RING",
+        "voted_up": false,
+        "playtime_h": 2.67,
+        "text": "Not my type of game but hopefully someday"
+      }
+    ]
+  },
+  {
+    "cluster_id": 8,
+    "cluster_stats": {
+      "reviews": 239,
+      "games_present": 5,
+      "recommend_rate": 0.9372,
+      "median_playtime_h": 5.23,
+      "dominant_game": "Finding Paradise",
+      "dominant_game_share": 0.5314
+    },
+    "representative_reviews": [
+      {
+        "title": "Meg's Monster",
+        "voted_up": true,
+        "playtime_h": 6.5,
+        "text": "BUY THIS GAME! If you've been waiting to feel that Too the moon experience over again look no further. Pros: - The Combat is fun and brings variety - Great art style - Top Tier story Cons: - Some parts of the story are a bit slower then others - You will cry, so if you are on a no cry break it'll be over - the side mission parts were neat but kinda felt like an artificial way to not make the game feel linear. I really hope this game wins award and gets the recognition it deserves because it truly was lovely. I give it 4/4 Council Monsters."
+      },
+      {
+        "title": "To the Moon",
+        "voted_up": true,
+        "playtime_h": 5.4,
+        "text": "[I]To the Moon[/i] is bitter sweet pixel-adventure game about how love and live and last wishes. Its not very long, the game elements are simple but it is nicely made and a very emotional story. Definitely something for people enjoying story driven and emotional touching of games."
+      },
+      {
+        "title": "To the Moon",
+        "voted_up": true,
+        "playtime_h": 15.45,
+        "text": "Let me start by stating that I love pixel art, rich soundtracks, and narrative-driven titles. To the Moon checks all three boxes. I first played this game in 2018. While its beautiful soundtrack stayed with me over the years, most of the plot had faded from memory. During a recent multi-hour train ride, I was scrolling through my Steam Deck library and rediscovered this gem. I decided to give it another shot, playing through both the main game and the two free \"Sigmund Minisodes\" DLCs. There is so much to love here. It’s a deeply emotional story about life, love, family, and loss, following a dying man and his late wife, alongside two doctors who rarely agree on anything but always have each other's backs when it counts. The soundtrack, in particular, is stunning and carries the weight of the narrative effortlessly. Just don't expect traditional gameplay. The experience consists almost entirely of searching for objects, clicking through environments, and solving the occasional light puzzle. It leans far closer to an interactive visual novel or walking simulator than a standard video game. Because it's relatively short, it never overstays its welcome. For me, replaying it was an absolute pleasure. The optional minisodes also add a fantastic touch, fleshing out Sigmund Corp., exploring its employees, and leaving you with a few intriguing mysteries to chew on. If you enjoy story-driven experiences with great art and music, and don't mind minimal gameplay, you owe it to yourself to give To the Moon a try."
+      },
+      {
+        "title": "Finding Paradise",
+        "voted_up": true,
+        "playtime_h": 6.08,
+        "text": "i think this game was even better than to the moon. equally intriguing and beautiful story, with great callbacks to the first game and some funny references and slightly different and more interesting game mechanics in this game. i absolutely loved it/"
+      },
+      {
+        "title": "Finding Paradise",
+        "voted_up": true,
+        "playtime_h": 5.72,
+        "text": "[h2]A solid addition to the world of \"To the moon\"[/h2] I think if I had to pick, I'd probably say I preferred to the moon, but that could just as well be because I played it first, it's not uncommon to be biased towards your introductory game or episode of a series. I thought this was pretty sweet, it's still a narrative game with some puzzle elements, but the writing is great, if the writing wasn't as top tier as it is I definitely wouldn't have enjoyed this or to the moon one bit, and for a dyslexic person who struggles to maintain focus when reading, that says a lot to it's quality. The sprites are mostly just the same as to the moon, but still just as amazing, I did notice some weird mixels during Neil's transformation sequence, and some tiny spots where pixels didn't line up fully or were a bit jittery, nothing that'd ruin your experience but they did stick out to me during my playthrough. The music is phenomenal as you'd expect, maybe a bit samey at times, but better that than incohesive, a little more variety in some spots wouldn't hurt, and might heighten the impact of the emotional tracks when they come in, but again, nothing that'll detract from your experience. I played \"A bird story\" prior to this, and honestly I didn't quite get the connection, I mean, yeah, same character, it's a standalone look into a point of his life that's been abstracted, but for a chunk of the game I was just like \"so she's the bird maybe?\" But no, the bird is kind of just insignificant outside of \"A bird story\", which was kind of sad to me, but it is what it is, it's not like it ruined the experience for me. I think Asher could've done with a bit more character development maybe, more screentime, more moments with his family, but the story does go on a bit as is, so I'm not mad they didn't try to shove more in there; I [i]am[/i] mad about the walk speed though, it's just too slow, for \"To the moon\" I think it worked better because the environments were a bit smaller, sometimes you'd be on a long walk from one area to another, but having most segments be smaller walkable areas made the walk speed feel reasonable for the majority of it, here it felt like it was padding the length of the game a bit, a sprint button at least would've been appreciated, I'm not saying we need to be running the whole game, just a slight increase, because as is, I felt like the walkspeed alone added at least half an hour to my playtime, maybe even a whole hour. But overall, great game, I thought it was really sweet, teared up a little at the end, I had minimal gripes with the story, the art, the music, the gameplay, I'm not gonna pretend there wasn't any friction with any of it, but it's so minimal compared to the master craftsmanship behind the entire rest of the game that they're just insignificant. If you're not a narrative game type, or you prefer games with intricate gameplay mechanics, multiple routes or endings, maybe this won't be for you, but if you like a good story with some interactive elements, I think this is worth your time."
+      },
+      {
+        "title": "Impostor Factory",
+        "voted_up": true,
+        "playtime_h": 3.63,
+        "text": "The series never disappoints me, but I think this is the best chapter I've played yet. Definite recommend for fans of the original series, and I hope if you're a passerby with no clue about the To The Moon series, if you like novel-type games, please do give this a try! All sorts of warm, funny, mysterious, and touching little tales await!"
+      },
+      {
+        "title": "Impostor Factory",
+        "voted_up": true,
+        "playtime_h": 5.4,
+        "text": "This game will make you watch somebody's entire life in your own view. I cant say much without spoiling, but the beginning of the game is extremely confusing until you finally reach the core of what is to come. This game takes an entirely different approach from the other games in the 'To the Moon\" game series, yet this game is worth it as it provides the context for the underlying issues in the past two games and minisodes. Overall an extremely good game, except you have to play the other games fist to understand this."
+      },
+      {
+        "title": "Baldur's Gate 3",
+        "voted_up": true,
+        "playtime_h": 82.0,
+        "text": "Permanent \"Charlie Day conspiracy\" meme state along the story"
+      },
+      {
+        "title": "Finding Paradise",
+        "voted_up": false,
+        "playtime_h": 2.22,
+        "text": "The sequel to To the Moon, a game about a pair of scientists who can go into the mind's of dying people to grant them their dying wish by editing their memories so that, as far as they remember, they fulfilled their dreams. The premise of the game is interesting, but the writing is only okay and I find the gameplay plodding and slow."
+      },
+      {
+        "title": "To the Moon",
+        "voted_up": false,
+        "playtime_h": 3.67,
+        "text": "You play this walking simulator for the story, honestly it could have done without it but then i guess it wouldn't be a video game? Anyway, I tried To the Moon because it was a short story driven game and after I played Omori, I was looking for something with a good story. While I think the story is ok, I don't think it made me feel what other people who played it felt. Like good for this guy wanting to go to the moon but as you go through the story, you see how other characters were affected throughout his life and I just thought, \"oh ok, so they don't get a happy ending but this guy just does.\" Overall its a decent game, I would not dissuade anyone from purchasing this game, I just would not recommend it. 3/5"
+      },
+      {
+        "title": "Impostor Factory",
+        "voted_up": false,
+        "playtime_h": 5.37,
+        "text": "Story was of such a vastly much lower quality than the previous two games that it genuinely leaves a bitter taste in my mouth for all of the to the moon games."
+      }
+    ]
+  },
+  {
+    "cluster_id": 31,
+    "cluster_stats": {
+      "reviews": 153,
+      "games_present": 8,
+      "recommend_rate": 0.6732,
+      "median_playtime_h": 11.97,
+      "dominant_game": "Long Gone Days",
+      "dominant_game_share": 0.3922
+    },
+    "representative_reviews": [
+      {
+        "title": "Meg's Monster",
+        "voted_up": true,
+        "playtime_h": 4.75,
+        "text": "[b] 5 Point review [/b] 5 pros and 5 cons. Thumbs up or down is just my personal like or dislike of the game. Pro [list] [*] A genuinely emotional story that will hit many in the feels. [*] Fun combat that is more puzzle/story then typical turn based combat. [*] Simply great pixel art perfect for smaller screens and the steam deck. [*] A short adventure that doesnt over stay its welcome without dlc coming in at about 5 hours give or take an hour. [*] Achievements are nearly all story based but upon beating the game chapter select lets you go back if skipped a side content. [/list] Con [list] [*] While the combat feels very undertaleish it never goes far enough with it. [*] The story uses a odd plot device to give a connecting point rather then doing a good and bad ending based on actions or choices. [*] While it has a lot of varied gameplay this is a heavy dialogue story which will not be for everyone. [*] While the music goes from good to decent in range there simply isn't enough to give the bigger story fights enough to highlight them. [*] The price point is a tad high for what it takes to 100% the game but it has been in bundles before making it easier to recommend. [/list]"
+      },
+      {
+        "title": "Meg's Monster",
+        "voted_up": true,
+        "playtime_h": 3.57,
+        "text": "Overall I enjoyed the experience I had playing this game, though it was different than I expected it to be. I think anyone going into this should expect it be more like a visual novel than anything else. I feel like it's got something it's trying to be but doesn't really hit the mark. The art style and music aren't quite cozy and the dialogue goes from nearing cringe territory to quite hard hitting. The end gets very long as it repeats the scenes over and over again with slight variations and I didn't totally feel like it had been earned yet. I've seen other reviews complaining that the story is very linear, but I don't see that as a negative. Not every story needs explorations and million different endings and a billion things to do. If you want to play those games, then avoid this one and go play those. The combat only gets interesting in the end-game. It feels like it was added on and not intended for this game. I did find the mechanics a bit interesting but for the most part it's pretty simple to sort out a strategy that works most of the time. When they started throwing new things at me in the end-game it only took two or three tried to get the right combo/luck."
+      },
+      {
+        "title": "In Stars And Time",
+        "voted_up": true,
+        "playtime_h": 64.57,
+        "text": "Playing this game was an experience I will never forget! :D The art and music draws you in, but the comradery between Isabeau, Odile, Mirabelle, Bonnie, and Siffrin as well as the twists and turns along the way keep you locked in. I had so much fun just reading the dialogue between characters. So much humor and charm behind nearly every interaction, even with the people in the town. Their friendship is an anchor in a world of chaos, and it's so wholesome despite the pressure they faced. I also liked how the battle system was based on rock. paper, scissors, even if it did make combat less complex as a turn-based game. My only gripe with the battle system was how tedious it became to battle over the course of the game. I eventually found an item that allowed me to circumvent some of the tediousness which was nice. My main complaint with the game is that there are certain parts that feel unnecessarily frustrating and difficult to complete. I would say Act 4 gave me the most trouble and I actually had to go through a walkthrough twice in order to finally pass it. The story, characters, art, and music make it worth it but it does feel a little too much at certain points even if I understand it relates to a core part of the story. I highly recommend this game! This is one of those games that can change your life by playing. I will never forget my buddies Siffrin, Odile, Isabeau, Mirabelle, and Bonnie ; u; <3"
+      },
+      {
+        "title": "In Stars And Time",
+        "voted_up": true,
+        "playtime_h": 18.5,
+        "text": "If there one characteristic I'm certain on, In Stars And Time's writing takes out many dialogue flourishes and facial expressions to make the characters WORK, especially across many, many, many, loops. Those interactions changing across the loops is how I see this story suits itself to a game. On the flipside, I not so sure I felt like gameplay should really take this long, owning to how combat is \"required\" with a certain fast traveling resource that feels somehow separate from the story, and yet is part of the story. I suppose that resource is just-- not gelling with the story in a game technical sense. I suppose, the story doesn't have much interactions with that resource outside of the resource being used to force the player to battle enemies? Except, enemies aren't *the* problem, rather it is the environment that acts as the challenge posed by the story. Enemies are just there, with very little interactions compared to the environment. With that said, I enjoyed In Stars And Times for bringing out these lovable dorks of main party, and an excellent showcase of dialogue tricks... Oh, I suppose I should say the game does a lot with very little in regards to maps & music. Classic pitch shifting, hahaha!"
+      },
+      {
+        "title": "Small Saga",
+        "voted_up": true,
+        "playtime_h": 10.62,
+        "text": "Yeah, it was okay. More theatrical than tactical, this game offers a casual RPG experience that is hard to lose at even if you find only the bare minimum in equippables yet contains enough content and sidequests to hold a seat at the table of the Game for RPG Players Union. Level ups come to the player at set points instead of through number gains (some of these set points are optional), battles will go by swiftly if you pay enough attention to the arrangement of skill points on your character grids (and they can be arranged freely), and the story plays out in a fashion meant for the coolness factor rather than in meaningful prose. It has nowhere else to go when it's about rodents looking to kill humans and only able to deal bare minimum damage even with a Swiss Army Knife, lol. Of course it contains a bunch of other inter-rodent strife and matching politics, some of them matching real life politics which will probably annoy you if you're not left-leaning, but nothing too serious. Come to this game if you'd like ten hours of fun, good music, and a decent narrative themed \"no gods, no masters\" to pass the time."
+      },
+      {
+        "title": "Small Saga",
+        "voted_up": true,
+        "playtime_h": 10.08,
+        "text": "Very solid and fun RPG. Characters are lovable with cute designs and great writing with fun moments for all of the main party members and their various acquaintances. The game also does not hide its inspirations at all which can be pretty funny (such as the buff that the main character can apply to themselves after the prologue lol) It is a bit on the shorter side for an RPG, but it also doesn't waste your time with any grinding or tedious sidequests. Every fight you get into is relevant to the main story at hand, and you usually only have a handful of fights before you get to the next big Boss Fight. And the Bosses are universally really fun, usually sporting their own unique gimmicks to set each of those fights apart from each other. The side quests that do exist are few, but again, they don't waste your time and are very fun individual quests. The levelup system is also pretty simple too, but it gives you a good few ways to lean each of the characters in different directions. So I do feel like there's a good bit of agency. And I also love how the item system works, where once you get a consumable that can heal you or cure a status effect or something, you can just equip it to a party member, and then that person can always use that item once per fight, so you don't have to worry about running out of them or anything like that. My one complaint about the game is that I felt like by the end I got a bit too powerful for the game to handle. If you do all of the sidequests to unlock everyone's ultimate abilities, you can kinda become absurdly unstoppable and as a result the final boss was a little underwhelming since I was able to just blow right through it while barely taking any damage to my party. Other than that, like I said the game is fairly short, and I certainly wouldn't have complained if there were maybe 1 or 2 more seasons worth of content with a couple more story arcs to go through, but when my biggest complaint with a game is that I want more of it, that's usually a good sign. Overall very much worth the price of admission, and in many ways I think is also a good intro RPG to the genre if you're not as familiar with its conventions. But even as a long time fan of RPGs I still loved what it had to offer."
+      },
+      {
+        "title": "Ikenfell",
+        "voted_up": true,
+        "playtime_h": 25.42,
+        "text": "I cannot recommend this game enough. The storytelling is compelling, the music is enthralling, the art is stunning, and the character development is so, so realistic. Conversely to many, I enjoyed the battle mechanics; I loved mixing & matching characters, and optimizing field movement. Moreover, I felt the timing mechanism was intuitive (for me) but even if it's harder to understand timing, the game is forgiving if you save often. And who wouldn't save often, when to do so you must pet a cat (which heals you entirely)?!? Even if grinding out battles doesn't help you with the timing, and you hate the battles, you can just turn on \"auto victory\" and tap out when the going gets tough. Another reason to promote is for the puzzles. Golden Sun is one of my all-time favorite games and I have been searching for a long time for a game that emulates those out-of-battle puzzle mechanics; Ikenfell comes close, with the hidden rooms/pathways and logic puzzles (though sadly not as focused on interacting with the environment as G.S.). Lastly, if you are an LGBTQIA+ person (or ally) I would highly recommend supporting this game: the characters are well-written, spanning the spectrum, and the banter is charming. We need more games like this!"
+      },
+      {
+        "title": "Ikenfell",
+        "voted_up": true,
+        "playtime_h": 32.58,
+        "text": "This game is extremely cute! All the characters are lovely and their queerness is apparent without overshadowing the rest of their personalities. The story is very interesting and has strong emotional beats, though the plotting is occasionally a little messy. The high points more than balance out the low ones though and the game's conclusion and character arcs were very satisfying. I enjoyed the battle system, which was a mix of grid-based tactical RPG party combat and Paper Mario-style action commands. Each party member has their own move set with unique timings, range, and area of effect. Figuring out who to bring and how to use them effectively in each fight is very satisfying. The game has a bit of a steep difficulty curve as enemies (especially bosses) ramp up their damage very fast if you can't do blocks with good timing, but healing is plentiful and the ability to restart a fight immediately after losing helps to make re-doing tough fights less frustrating. Since enemies can be encountered (or avoided) in the overworld to start battles, I was hoping to have some sort of first-strike system to get an edge going into a fight, but that didn't seem to be available. Overall, I had a great time with this game, both in the main story and in the handful of secret side trips lurking around. Highly recommend to anyone who is a fan of action-command RPGs and queer witches."
+      },
+      {
+        "title": "ELDEN RING",
+        "voted_up": false,
+        "playtime_h": 88.55,
+        "text": "[h1]Probably the biggest letdown of a game.[/h1] I have to preface this and say that this is my first soulslike experience. Elden ring videos and players promise hard gameplay, great story, and cinematic experience. In reality? It's [b]unmeasurable disappointment[/b] on several fronts. My first issue is that this game was supposed to be made for controllers. You'd think with controllers your movement would be optimized with omnidirectional movement, variable speed, etc. No. No it is not. Too simple of concepts for these simple devs. In order to sprint in this game you have to hold the same button you dodge with (B as I'm on Xbox controller). So if you were to do something as simple as dodge while running, you have to hold the direction and quickly release and tap your dodge button again. This is already awkard of a movement and you'd think it'd be fixed in early builds of the game. Nada. On top of this awkward movement, your dodge actually only starts once the dodge button is released. This wonderfully stupid idea of a mechanic makes reactive playstyles (what'd you'd expect to play as a game centered around boss fights) useless. The amount of time it takes for you to actually do what you inputed is elongated by dumb design. This leads to another problem later on. [i]I'm just gonna forego the horrible auto-lock and let other players tell you about that dumpster fire.[/i] My second issue is FPS being locked. 60hz is stone age. People have to spend $60 to get this game (crazy ik). When you can get a 60+fps monitor for $80. Let's think here, are your customers going to say \"God I hope this cinematic game is locked at 60fps\". Seriously unless you're a foot in the grave you can see the slop that is 60 fps. Did you buy a actual monitor? Something beyond 60fps? Yikes you're going to see some stuttering if your hz isn't divisible by 60 f*cking fps or has freesync. Now in the defense of this game, I understand that the game is based around the 60fps for engine reasons and for console players. Yet, WHY is it 60 fps when ported to PC. I'm writing this review 4 years later and there is still no support for higher framerates. Dollar per frame game. My third issue, difficulty. This game isn't \"hard\", it's tedious. I started playing this game in hopes of dodging bosses last second, paying attention to a flurry of attacks as they came out, and getting bested because I lacked the mechanical skill to beat a boss. Reality? This game has THE MOST BORING BOSS FIGHTS. Let me explain. Every boss has movepools. Which when learned make the boss easier, but Elden Ring makes it BORING. However, the fun should lie in going against new bosses right? Maybe getting lucky and beating them first try? Well unless it's one of the billion copy print dungeons with bosses that might as well be 2D for the lack of depth to them, you're going to die (probably in those dungeons too). You'll be hit with a move you can't properly dodge because well you've never seen it before.Or even worse, you have yet the timing is slightly different, with extensions of range or attack(s). Some people may not have a problem with this whole \"see a new move, die and come back pattern\". And to those people I say, \"Keep flipping those burgers.\" The allure in bossfighting games is making yourself a betterplayer. One able to become better in any situation as you progress. Not dying 2-3, 4 times before you get the boss to a next phase where you'll have to repeat the same steps. This loop? It's not skillful dodges, parrying, or anything cool like that. It's just dying, learning, and coming back. That is profoundly boring. If all your bosses can just simply be put into a youtube video devolving strategies to counter every situation, you didn't make a skillfull game, you made a knowledge gap. [u]Seriously the bosses might as well be a quizlet looking at each boss's attacks like flashcards and memorizing.[/u] And you'd know I'd take it all back if the story was redeeming. Stories can carry bad gameplay after all. But truth be told you won't really even learn the story in this game. You have to go OUT of your way to find what this game is about. Other RPGs I've played such as Fallout 4, Cyberpunk 2077, Pokémon, all find ways to sprinkle in story if you just go a little bit off the game's main course. This game? You pretty much need a guide to get a inkling of it at all. You will have many questions when the game starts and as it progresses, you'll just have more and more. It's hard to find motivation to do quests with characters you know nothing about. This game doesn't motivate you to do anything, you pop in the world, you look around a bit, and you're confused. I understand that it is a game for adults, so make the story a bit complex. However at the start of the game, you as a protagonist get the sole goal of becoming the Elden Lord from a good cutscene. Now it may just be me, but [u]why does it sound like we're setting up a tv show?[/u] Could it be that it just said a bunch of characters nobody knows, gave the tiniest amount of backstory that you don't really understand, and had a vague direction? Maybe...maybe. But surely this is a good story. It will tell you a bit more as you start the game... Yeah no, this game has bad storytelling. Not necessarily a bad story I hear if you have thousands of hours to waste reading every item, replaying for minute things you missed because the game [b] Doesn't Have Story Direction [/b]. My advice F-Soft, narrow the guage just a little bit more so people can know why they should give a crap. Then the whole discover the lore thing works. But hey, if all that sounds appealing to you, go ahead and pay your $60 for 60fps. Have fun wasting your time memorizing an interactive textbook everyone else has already read, memorized, condensed, and posted the results of online. Edit 1: I've since beat Elden Ring and it was unfulfilling. I have yet to play the DLC (got a gamekey bundle for cheap). At this point in time everything still stands. Play modded if you can. But unless you're an achievement hunter like me, better steer clear, there's some enjoyable moments in this game, but the bad camera control, crappy controls, and 60fps still make this game hard to enjoy. It's sad that unpaid modders make the fixes that paid devs couldn't. That said, if you have a fit girl you know, go there. Don't buy."
+      },
+      {
+        "title": "ELDEN RING",
+        "voted_up": true,
+        "playtime_h": 768.18,
+        "text": "so at 3/4 of 1k hrs into this game i feel i have the ability to leave a actual worth while review for it. To start this off, i will say this is the easiest Soulslike to get into and i adore how it lets you either do everything or do minimal, not only because some of us just arent completionists but also because it helps if you Elden ring RP like i do in my own little head canon at times. The only two main negatives i can say anything about are the two that make my eyes rollll playthrough after playthrough. horse combat Boss variety. For the horse combat, its janky, itsdifficult to do properly, and its lame. as a spell caster i even have issues doing that on horseback as a lot of times the character will fire their shots in the way youre facing and not in the way the target youre locked onto is. for boss variety, i would have liked to have seen more options. but i also understand that with the base game having 147 bosses in it total that it would be a pain in the ass to even have 60 unique types outside of legacy bosses. So while disappointed on that one, i do understand it at least. Otherwise i dont really have any complaints. This game is one of my favs and is legit always installed on my rig. The evironment, the sound design, the combat, its all spot on for me. this game gives a ♥♥♥♥ ton to experience and i personally think that if you can enjoy it then you should experience it all the way at least once. if you dislike this game, happy trails and make sure to review your fav game so maybe some of us will be apt to try it. If you decide to try this game and enjoy it. Welcome to the lands between ye tarnished and may you never lose the touch of grace."
+      },
+      {
+        "title": "Long Gone Days",
+        "voted_up": true,
+        "playtime_h": 2.68,
+        "text": "This Game for being in early access is coming along fantasticly. The game looks great except for a few problems with the full picture art showcased in some areas. While the combat can be difficult at some points. It provides a fair challenge. My main problem with the combat is the item VS. moral system when you finish a battle. The game gives you the option to take a item usually a healing item or on some occasions a equipment item. Or moral the game's MP system which in my playthrough I only encountered one item that gave moral. The problem is that at least I couldn't find anywhere to buy the items that I needed. So I ended up having the problem that the ememies wouldn't take much dammage from normal shots. So I had to use moral. Useing more than the game gave me for winning the battle. But at the same time since I used to much moral. I had to use my items to heal. So by the end I was having a major problem with moral and healing items. And was only saved by a story point during the boss battle. Hopefully when the full game comes out this moral and healing problem will be fixed by the incluison of a in-game shop or more items scatured around the overworld. All in all I highly recomened the game for it's great art, engageing story, and challengeing combat with only slight problems"
+      },
+      {
+        "title": "Long Gone Days",
+        "voted_up": false,
+        "playtime_h": 2.18,
+        "text": "So. This game looked quite good at first glance, but its actually terrible. The sprite work is good, the enemy design is interesting and kinda fresh, very well done. The battle system is neato too, but the real problem is the story. Its written horendously. They repeatedly forget to capitilize the beginnings of sentences and the story makes no sense. Dystopia is a very interesting genre with a lot of interesting different potential facets. This game has none of that. Spoilers ahead to the story, I'll try to keep it limited by to explain the issues with the story I need to, you know, talk about the story. The main character, Rourke, is sent on a mission in Poland and finds out he's really purging a bunch of civilians. He then tells the first person to listen that he can't POSSIBLY live this kind of life, and that he's gonna desert even if it gets him executed. What the ♥♥♥♥ man, who does that. Now, going through a panic attack after you found out you murdered a bunch of innocent people is totally reasonable, but who the ♥♥♥♥ would tell someone that. Its insane. You'd have to really think about it, mull it over and THEN decide to bail on your country. Not only that but the dialogue people have is weird and stilited, they don't talk like real people they talk like someone is trying to beat me over the head with the tragedy of war or some nonsense. TL;DR most of the game is good, but the story sucks ass, and an RPG with bad story is pretty much wortheless."
+      },
+      {
+        "title": "Meg's Monster",
+        "voted_up": false,
+        "playtime_h": 7.93,
+        "text": "A heartfelt story that visually might be very reminiscent of another game that features monster and human tensions, but it stands out with a nice focus on a set main cast that I couldn't help but just adore. Pretty good Pixel art, nice colour palettes that set the mood. With a mix of overworld sprites and more detailed combat sprites, the latter while not being the most animated compared to the former, I welcomed them to break the story from time to time. Combat. Every fight being unique, going the route of every fight is a boss rather than a random enemy. Most if not all of the fights have a unique THING going on to try and not be a repetitive turn based game, this is more expanded on in later fights Beautiful soundtrack, hitting the right notes in the correct places, though I felt it's a little limited and not too memorable, but that's purely personal. The combat feels a little tagged on, while there is variety in the enemies you typically only fight once, game overs tend to fall down to extremely bad luck since you are on a linear path with no real options besides your established mechanics. How the player avoids a game over, I'd say it's at least unique, so a bonus for that. Despite having a world map, the game is purely linear (you are pretty much locked into your linear route too) With no real reason to explore any place further outside of areas being no more than 2-3 rooms large at most points. Side quests don't really add much bulk to the game play or plot, with one side quest being awkwardly placed tone wise and the other being multiple side quests that seem almost shoe-horned in to bulk up the plot and twist (or someone just REALLY liked a certain character idk lol) While I think the ending is certainly a nice one, some elements of the plot and characters could've been explored more, the setting of the world REALLY should've been explored more, certain plot points I have either missed or the game didn't bother to tell me. (If it's left up to interpretation then that's totally fine) I feel the game could've just been MORE that what it already is if it was given more time to work on rather than a nice little shortened story to get done in a few hours. Despite what I feel, I do think it was a cute little game, However I would REALLY recommend one buys it SUPER discounted or just watch someone else play it, you will both share the same experience. I just don't think the price is worth a 5-7 hour experience. I'd like to recommend it but it's just lacking in content and replayability."
+      },
+      {
+        "title": "Small Saga",
+        "voted_up": false,
+        "playtime_h": 6.48,
+        "text": "+ extremely good art direction in general, I liked the character designs, the battle arenas and weaponry/props design + very good quality and variety of music + no random encounters and milestone level ups are great ideas! I wish we saw it more in other games +/- the game is short, which I liked but I think it could have used more side things +/- the game is easy, it's not bad to the point of being tedious but I would have liked more challenge +/- the battle system is pretty basic and it doesn't do anything new - my biggest problem with the game is the writing, classic RPG games are expected to deliver in this area more than any other genre, the story in general is ok but the way it's written is direct and as spoon feed-y as possible! the beginning gave so much potential for the story to go and explore interesting things but it didn't deliver, it turned to basic \"these bad guys are bad and these are the good guys\" with nothing subtle or even worth thinking about, the characters are all one note to the extreme! the developer is skilled in writing comedy as we have seen from the previous game (aviary attorney) but in this game it's nearly non existent! it shows its head one time or two and both are my favorite part of the writing. as silly as the previous game was it tackled inequality and social issues in a clever way that I'm still thinking about to this day! the characters from that game are so memorable and their stance in a lot of issues can be inferred from their actions, it's exactly why I expected a lot from this game! I struggled with rating the game but ultimately decided on negative because I found the game forgettable after two days of finishing it. I would really like to see the developer try to stab again at the genre with the previous style, I think the combination has potential to be something really special."
+      },
+      {
+        "title": "Ikenfell",
+        "voted_up": false,
+        "playtime_h": 11.9,
+        "text": "A monotonously unimaginative narrative, strung along by an upsettingly tedious and shallow combat system. The novelty of the colourful pixel world and tile-based combat system are fine at first, but only get worse as the game rolls out more content to reveal there's no more depth to the experience than that. The combat system is not very tactical at all. Every single combat encounter the map is the exact same three by twelve grid with no obstacles or hazards or anything. Every single map is just that. All the player does is move the characters in range of the enemies on this confined, barren grid and then chunk out the same damage skills over and over again. To artificially make the experience more engaging players need to perform a quick time event every single time they use an ability or are attacked. These quick time events drastically impact the outcome of each turn and encounter as a whole. Missing the quick time will generally result in an enemy attack dealing triple damage compared to pressing at the very last moment for the most reduction. Same goes for when the player controlled characters attack, it will be anything from a fraction to full damage based on the quick time event. Players have to do this quick time event for every single action in every single combat encounter throughout what is probably a fifteen or more hour campaign. And every single new enemy attack and new character ability has a completely different timing, sometimes it's about when the hit lands other times it's a fraction of a second after the hit lands other times it's not the hit at all it's based on some random other part of the animation. At first it's not so bad but after over ten hours of combat which is only engaging because quick time events force the player to pay attention, it's exhausting and unfun. The map layout is the same every fight, there's barely even any room to move around in, there's no dynamic strategies or synergies between items and abilities, players have minimal access to buffs or control affects that allow for actually strategy, there's little players can do to tactically respond or counter or account for enemy actions at all in any way, and players have to take up a whole turn if they want to use an item so items are a waste of time outside of higher difficulty fights. If players don't waste time fighting against anything other than the boss, then players end up being underpowered for the boss fight and have to waste ridiculous amounts of time chipping the boss down; which negates all the time the player saved from skipping the previous fights. There doesn't seem to be much variety in gearing for statistics either since players can't really focus anything enough to make a huge difference, although without speed enemies will start taking multiple turns before the player gets to. Admittedly the game does actually give players a toggle in the settings menu to allow for instantly winning combat and, I think, bypassing the quick time events as well. But if entire core mechanics of the game need to be removed just to make it less unfun then that's a problem. Similarly to the combat, at first the story is also decent if not especially exciting. But it doesn't get anymore exciting as it advances. The world is just a bunch of bland, unimaginative copy paste magic whatever. Nothing special, nothing unique or creative about any of it. The lore of how the world was created gets even worse. Arbitrarily large whale, mammoths and a raven who for some reason have the ability and desire to create things; created things. That's it that's the universe lore. Same with the plot, it does try to at least do something different yet it's still just a vague asinine problem that has a vague asinine solution and overtime it just becomes less vague. None of the twists the plot provides in twelve hours are actually exciting, especially because most of the specific details that the plot revolves around are arbitrarily thrown at the player out of nowhere; and the player just has to nod along. The characters are about the same. Not awful, but not unique or interesting either. Very copy paste predictable personality categories without much depth beyond that initial category. Half of the characters either don't have any major drama problems but also supply absolutely no reason for the player to be interested or intrigued by their existence at all; while the other characters do have drama problems but it's all petty obnoxious issues that make zero sense to be showing up in the middle of such a drastic world saving whatever plot. The most consistently fresh aspect of the game is simply just running around the world collecting items and advancing from room to room while solving mild puzzles. The game has decent pixel graphics and fairly diverse, if not still uninspired, environments along with a solid amount of nice music. The select few songs that actually have sung lyrics tend to be shallowly written and extremely out of place though. Ironically the least music variety appears to be in combat. Players get to listen to the same song for the fiftieth time while performing the same quick time event for the two hundredth time. As referenced I was genuinely fine with the game at first. But after twelve hours of the same quick time events, the same empty maps; the only reason combat even started becoming especially difficult was because the characters had become underpowered due to me desperately avoiding enemy encounters to save time, and I actually started missing quick time events more often because of how tired I got of doing them. Meanwhile the story just keeps going on with the same inane fantasy save the world discover the boring details of the predictable secrets and now one of the characters is having a tantrum again so time to stop everything for them before immediately resuming once the petty social crisis is over. There's just nothing new about this in terms of gameplay or story. Yet it's over twelve hours long and demands constant attention from the player the whole way despite not providing anything of genuine intrigue. This game actually would of benefited from being much, much shorter. If you're interested in finding some games that I do positively recommend they can be found on my curator page [url=https://store.steampowered.com/curator/38950844-Anoemalous/] here [/url]."
+      }
+    ]
+  },
+  {
+    "cluster_id": 30,
+    "cluster_stats": {
+      "reviews": 129,
+      "games_present": 8,
+      "recommend_rate": 0.9457,
+      "median_playtime_h": 10.75,
+      "dominant_game": "Ikenfell",
+      "dominant_game_share": 0.3798
+    },
+    "representative_reviews": [
+      {
+        "title": "Meg's Monster",
+        "voted_up": true,
+        "playtime_h": 9.37,
+        "text": "Pretty cool game. Adorable characters, heartwarming story. The gameplay is entirely narrative-driven. Combat is not very challenging, but keeps itself fresh and entertaining. Very much recommended."
+      },
+      {
+        "title": "Meg's Monster",
+        "voted_up": true,
+        "playtime_h": 5.38,
+        "text": "Friend got this for me as a joke due to me getting them a game with their name in it, ended up absolutely enjoying the experience. The game is rather simple, combat is not excessively complicated. But that is not where this game shines. The game shines more in the layering of their storytelling with battle mechanics. The game is tagged as linear, and yes... it is VERY linear in terms of progression on what you are doing. If you're interested in the story, it is worth the pick up."
+      },
+      {
+        "title": "In Stars And Time",
+        "voted_up": true,
+        "playtime_h": 18.1,
+        "text": "really great game. Captures a lot of really difficult-to-capture ideas and handles them all beautifully. And the combat is engaging althroughout and never gets fully stale."
+      },
+      {
+        "title": "Small Saga",
+        "voted_up": true,
+        "playtime_h": 7.97,
+        "text": "Great game. the combat was fine, but the story and visuals are great"
+      },
+      {
+        "title": "Small Saga",
+        "voted_up": true,
+        "playtime_h": 7.22,
+        "text": "Great story, great world building, excellent visual style, overall very enjoyable game. Battle system is a little simple, but still fun, so not a big drawback. Absolutely worth buying and playing."
+      },
+      {
+        "title": "Ikenfell",
+        "voted_up": true,
+        "playtime_h": 4.12,
+        "text": "Still progressing through the game, but seems quite good so far. Combat timing mechanics are varied and interesting, story is well-written."
+      },
+      {
+        "title": "Ikenfell",
+        "voted_up": true,
+        "playtime_h": 27.95,
+        "text": "Genuinely such a fun game, the combat is fun and expands as you play, the story is happy and makes you feel content. I loved it and hope that those who made it are living great lives bc waow. :3"
+      },
+      {
+        "title": "Long Gone Days",
+        "voted_up": true,
+        "playtime_h": 7.2,
+        "text": "This game is quite good although it may be more of an interactive VN and this may be just me but every battle is easy the closet thing i got to loosing was when i battle the Liutenant other than that great game will play again even tho ik what will hapend."
+      },
+      {
+        "title": "ELDEN RING",
+        "voted_up": true,
+        "playtime_h": 3.03,
+        "text": "Good graphics, great combat, the controls can feel rather clunky at times (even more so on mouse and keyboard) but overall it's quite the fun challenge."
+      },
+      {
+        "title": "OneShot",
+        "voted_up": true,
+        "playtime_h": 10.22,
+        "text": "This game is a lot more immersive than you think upon first playthrough, no combat but it's not really necessary. The puzzles are easy enough; the story line is what makes this such a masterpiece. Definitely recommend."
+      },
+      {
+        "title": "Long Gone Days",
+        "voted_up": true,
+        "playtime_h": 12.97,
+        "text": "Good one, but defiently not the greatest. Imo 88% raiting is a bit too much for it. Writing itself is pretty basic, you will know what its about in a minute and will for sure predict every big thing happening here, but it has a good mix of basic things so its enjoyble. Combat is nice but too easy, you just go into and win everyone without a beat, I don't even know why you need so much items here. Last boss combat is just very slow and boring, I was just smacking enter by the end. Still a \"Yes\" though, just for artstyle and that it's quite short(especially if remove all this combat time)."
+      },
+      {
+        "title": "ELDEN RING",
+        "voted_up": true,
+        "playtime_h": 28.37,
+        "text": "Very good game.Nice combat and brithe taking Bosses"
+      },
+      {
+        "title": "Baldur's Gate 3",
+        "voted_up": false,
+        "playtime_h": 3.17,
+        "text": "I am not impressed. Combat is clunky. Camera control is pretty terrible. I just don't like it. Guild Wars 2 beats this in every way, and it is 14 years old. They seem to focus way to much on graphics, and i don't find them very good. Good thing i held out and got this on sale, i would be pissed if i paid full price for this crap. I'm sure i am in the minority here, but playing this is so slow and cumbersome that i just couldn't get into it."
+      },
+      {
+        "title": "Ikenfell",
+        "voted_up": false,
+        "playtime_h": 8.43,
+        "text": "Great concept with great characters and a fun (albeit tedious) combat system, held back by poor prioritisation. This game features little-to-no story and what story is does have is all written around the gameplay, not the other way around. It's honestly disappointing how little time you spend in the school doing school things, I expected something like Persona but instead got the shell of a promising game made by people who very obviously care. I honestly hope that someone else enjoys this game, but I truly didn't. (Also, the game's levelling is ♥♥♥♥♥♥, there's a lot of grinding and new party members never match the level of your party)"
+      },
+      {
+        "title": "Ikenfell",
+        "voted_up": false,
+        "playtime_h": 2.78,
+        "text": "This game feels like about 75% cutscenes and 25% gameplay. Combat is fun but there is so much fluff between actual opportunities to play and the story isn't nearly engaging enough to make that experience enjoyable."
+      }
+    ]
+  },
+  {
+    "cluster_id": 18,
+    "cluster_stats": {
+      "reviews": 117,
+      "games_present": 10,
+      "recommend_rate": 0.9915,
+      "median_playtime_h": 5.52,
+      "dominant_game": "To the Moon",
+      "dominant_game_share": 0.3077
+    },
+    "representative_reviews": [
+      {
+        "title": "Meg's Monster",
+        "voted_up": true,
+        "playtime_h": 5.02,
+        "text": "Very cute and endearing story overall. It was short and sweet. Well worth the buy!"
+      },
+      {
+        "title": "Meg's Monster",
+        "voted_up": true,
+        "playtime_h": 4.95,
+        "text": "Really liked this short story!"
+      },
+      {
+        "title": "Ikenfell",
+        "voted_up": true,
+        "playtime_h": 32.08,
+        "text": "Loved the story and everything."
+      },
+      {
+        "title": "OneShot",
+        "voted_up": true,
+        "playtime_h": 5.32,
+        "text": "short but one of the best stories oat : also the lore was great. i recommend"
+      },
+      {
+        "title": "Long Gone Days",
+        "voted_up": true,
+        "playtime_h": 4.43,
+        "text": "Amazing art and compelling story with very poignant themes."
+      },
+      {
+        "title": "To the Moon",
+        "voted_up": true,
+        "playtime_h": 5.77,
+        "text": "A cute story about a woman who marries a guy who like Animorphs and kills herself."
+      },
+      {
+        "title": "To the Moon",
+        "voted_up": true,
+        "playtime_h": 5.4,
+        "text": "A short but rather beautiful story."
+      },
+      {
+        "title": "Ikenfell",
+        "voted_up": true,
+        "playtime_h": 79.32,
+        "text": "I've played this through a couple times now. A genuinely lovely story that spoke to me a lot."
+      },
+      {
+        "title": "Finding Paradise",
+        "voted_up": true,
+        "playtime_h": 6.9,
+        "text": "Another good story. It reminds us that we are always our own best friend, and the one who supports ourselves."
+      },
+      {
+        "title": "Finding Paradise",
+        "voted_up": true,
+        "playtime_h": 5.12,
+        "text": "Really nice cute story. Amazing ending and really good song writing."
+      },
+      {
+        "title": "Impostor Factory",
+        "voted_up": true,
+        "playtime_h": 4.5,
+        "text": "Magnificent! You never miss. Amazing writing, amazing delivery. Great art and music. Just marvelous."
+      },
+      {
+        "title": "Impostor Factory",
+        "voted_up": true,
+        "playtime_h": 3.78,
+        "text": "Good story building with some some suspense. enjoyable."
+      },
+      {
+        "title": "To the Moon",
+        "voted_up": false,
+        "playtime_h": 4.15,
+        "text": "couldn't really connect w the story"
+      }
+    ]
+  },
+  {
+    "cluster_id": 7,
+    "cluster_stats": {
+      "reviews": 107,
+      "games_present": 3,
+      "recommend_rate": 1.0,
+      "median_playtime_h": 4.98,
+      "dominant_game": "Impostor Factory",
+      "dominant_game_share": 0.5888
+    },
+    "representative_reviews": [
+      {
+        "title": "To the Moon",
+        "voted_up": true,
+        "playtime_h": 14.95,
+        "text": "To The Moon ~ tbh i played the original just for easy perfect game (achievements) and that was years ago i even forgot the story but it was great thats what i remember and then it got remastered version so i just found myself play it again i just finished it and i can say its looks simple but for me it was really worth it story so emotional nice characters , nice music , etc... i guess i will buy all freebird games because of \"To The Moon\" <3"
+      },
+      {
+        "title": "To the Moon",
+        "voted_up": true,
+        "playtime_h": 8.33,
+        "text": "the impact this lil game had on me within the span of playing will last a lifetime. thank you FreeBirdGames. 🕊️💖"
+      },
+      {
+        "title": "Finding Paradise",
+        "voted_up": true,
+        "playtime_h": 6.23,
+        "text": "I definitely recommend it! I mean, I liked the storytelling, the pixel art, the art style, the game design, and the soundtrack, and I got a bit emotional :D Nothing more to say! I already played the other Freebird games... I don’t really remember \"To the Moon\" since it’s been years since the last time I played it, but I liked that one too."
+      },
+      {
+        "title": "Finding Paradise",
+        "voted_up": true,
+        "playtime_h": 5.95,
+        "text": "1. This game = Super Brillent Story telling + heartwarming. 2. This game takes less than 6 hours to complete. 3. Every movement of this game is worth your time playing it. 4. For me this game was easily 10/10. (Must Play game ) 5. 100% Recommended and all the other games from \"Freebird Games\" developer."
+      },
+      {
+        "title": "Impostor Factory",
+        "voted_up": true,
+        "playtime_h": 3.3,
+        "text": "Wow there's such a leap forward with the animations and writing from the past games, not to say those weren't good as well but the atmosphere set during the different acts of this chapter of the freebird games is really compelling!"
+      },
+      {
+        "title": "Impostor Factory",
+        "voted_up": true,
+        "playtime_h": 4.72,
+        "text": "One of the most unexpected games regarding every aspect. Insanely underrated. FreebirdGames gained a huge fan"
+      }
+    ]
+  },
+  {
+    "cluster_id": 29,
+    "cluster_stats": {
+      "reviews": 74,
+      "games_present": 9,
+      "recommend_rate": 1.0,
+      "median_playtime_h": 13.32,
+      "dominant_game": "Small Saga",
+      "dominant_game_share": 0.2568
+    },
+    "representative_reviews": [
+      {
+        "title": "Meg's Monster",
+        "voted_up": true,
+        "playtime_h": 4.02,
+        "text": "Great short little rpg that really hits you in the feels. I think this is one I will find myself thinking about frequently."
+      },
+      {
+        "title": "In Stars And Time",
+        "voted_up": true,
+        "playtime_h": 35.0,
+        "text": "Genuinely the best RPG i've EVER played, I highly recommend it to those who are a fan of this genre!!"
+      },
+      {
+        "title": "In Stars And Time",
+        "voted_up": true,
+        "playtime_h": 18.1,
+        "text": "ARO REP? IN AN RPGMAKER GAME? NOW THATS THE COOLEST THING I'VE EVER SEEN!!!!!!!!!!!!!!!!!!!!"
+      },
+      {
+        "title": "Small Saga",
+        "voted_up": true,
+        "playtime_h": 4.02,
+        "text": "wonderfully written,old school isometric rpg. characters and storytelling is top notch needed something a little different and this hits the mark really well."
+      },
+      {
+        "title": "Small Saga",
+        "voted_up": true,
+        "playtime_h": 5.5,
+        "text": "Quick Final Fantasy like RPG that is well worth your time! Especially on Steam Deck!"
+      },
+      {
+        "title": "To the Moon",
+        "voted_up": true,
+        "playtime_h": 1.02,
+        "text": "One of the greatest game I've played. A rare quality RPG game."
+      },
+      {
+        "title": "Baldur's Gate 3",
+        "voted_up": true,
+        "playtime_h": 224.23,
+        "text": "one of the best RPG games"
+      },
+      {
+        "title": "Ikenfell",
+        "voted_up": true,
+        "playtime_h": 43.03,
+        "text": "Amazing game with old school RPG feel."
+      },
+      {
+        "title": "Ikenfell",
+        "voted_up": true,
+        "playtime_h": 15.4,
+        "text": "An RPG taking homage of the games like Final Fantasy, Chrono Trigger and many others. The Story is top notch and the gameplay is entertaining throughout"
+      },
+      {
+        "title": "Baldur's Gate 3",
+        "voted_up": true,
+        "playtime_h": 93.18,
+        "text": "One of the best, maybe the best RPG game of all times"
+      },
+      {
+        "title": "ELDEN RING",
+        "voted_up": true,
+        "playtime_h": 102.43,
+        "text": "The best RPG ever played"
+      },
+      {
+        "title": "ELDEN RING",
+        "voted_up": true,
+        "playtime_h": 45.78,
+        "text": "Possibly the best survival/rpg game i've ever played and it's the number 1 rpg game by a mile"
+      }
+    ]
+  },
+  {
+    "cluster_id": 22,
+    "cluster_stats": {
+      "reviews": 69,
+      "games_present": 10,
+      "recommend_rate": 1.0,
+      "median_playtime_h": 10.73,
+      "dominant_game": "In Stars And Time",
+      "dominant_game_share": 0.2319
+    },
+    "representative_reviews": [
+      {
+        "title": "Meg's Monster",
+        "voted_up": true,
+        "playtime_h": 3.97,
+        "text": "10/10 this game is funny, yet sad at the same time that it almost made me tear up, go play it! you can finish it in a day if you just play it casually"
+      },
+      {
+        "title": "In Stars And Time",
+        "voted_up": true,
+        "playtime_h": 30.68,
+        "text": "This game destroyed me. I will never recover from this. 10/10, best game ever."
+      },
+      {
+        "title": "In Stars And Time",
+        "voted_up": true,
+        "playtime_h": 38.3,
+        "text": "this game picked me up and threw me across the room a million times. 10/10"
+      },
+      {
+        "title": "Small Saga",
+        "voted_up": true,
+        "playtime_h": 11.47,
+        "text": "Loved everything about this game 10/10"
+      },
+      {
+        "title": "Ikenfell",
+        "voted_up": true,
+        "playtime_h": 11.73,
+        "text": "2/10 not enought testosterone jk 10/10 This game deserves way more attention!!!"
+      },
+      {
+        "title": "OneShot",
+        "voted_up": true,
+        "playtime_h": 11.77,
+        "text": "A heartbreaking tale with a bittersweet ending, 10/10 would not play again."
+      },
+      {
+        "title": "Small Saga",
+        "voted_up": true,
+        "playtime_h": 10.3,
+        "text": "Damn this was a blast, i really wish i didn't beat it so i could play more, overall amazing game 10/10 would recomend"
+      },
+      {
+        "title": "ELDEN RING",
+        "voted_up": true,
+        "playtime_h": 274.5,
+        "text": "SO GOOD Amazing amazing game, I love dying 1000 times and then feel happy for 10 seconds then back to the next boss and 1000 deaths! 10/10"
+      },
+      {
+        "title": "Finding Paradise",
+        "voted_up": true,
+        "playtime_h": 3.65,
+        "text": "waited too long to play this because i knew it'd hurt it did 10/10"
+      },
+      {
+        "title": "To the Moon",
+        "voted_up": true,
+        "playtime_h": 4.65,
+        "text": "The best game I’ve ever played in my life. An absolute must play. 10/10."
+      },
+      {
+        "title": "Finding Paradise",
+        "voted_up": true,
+        "playtime_h": 5.72,
+        "text": "10/10 - A beautiful game about an old man's life and the decisions he has made."
+      },
+      {
+        "title": "To the Moon",
+        "voted_up": true,
+        "playtime_h": 4.62,
+        "text": "this game is beautiful 10/10"
+      }
+    ]
+  },
+  {
+    "cluster_id": 16,
+    "cluster_stats": {
+      "reviews": 66,
+      "games_present": 6,
+      "recommend_rate": 0.9242,
+      "median_playtime_h": 8.9,
+      "dominant_game": "Small Saga",
+      "dominant_game_share": 0.4091
+    },
+    "representative_reviews": [
+      {
+        "title": "Meg's Monster",
+        "voted_up": false,
+        "playtime_h": 12.2,
+        "text": "a fairly boring VN with a light JRPG veneer, but interesting enough to complete. was going to complain more, but then realized it was developed for children, and now I feel like some sort of overgrown idiot. I want to impregnate Nancy"
+      },
+      {
+        "title": "Meg's Monster",
+        "voted_up": true,
+        "playtime_h": 0.65,
+        "text": "Nice little game totally in style of Odencat's (the developer) other games. Linear adventure in the guise of a jrpg."
+      },
+      {
+        "title": "Long Gone Days",
+        "voted_up": true,
+        "playtime_h": 13.6,
+        "text": "Story is fine , short jrpg , too much yapping at times , no voice acting which is a big minus for me , overall 6/10 buy on sale."
+      },
+      {
+        "title": "In Stars And Time",
+        "voted_up": true,
+        "playtime_h": 24.97,
+        "text": "I thought this was gonna be a silly little JRPG-style game. Now that I've finished it, easily on my top 5 games of all time."
+      },
+      {
+        "title": "Small Saga",
+        "voted_up": true,
+        "playtime_h": 5.82,
+        "text": "I had this game in my wishlist for over 2 years, why in the world did I wait this long??? You want a character and story driven JRPG, with wonderful visuals, music, solid world design, and doesn't over complicate the combat? Here's your game!"
+      },
+      {
+        "title": "Small Saga",
+        "voted_up": true,
+        "playtime_h": 8.97,
+        "text": "very charming little JRPG that served as a great detox game for me"
+      },
+      {
+        "title": "In Stars And Time",
+        "voted_up": false,
+        "playtime_h": 0.67,
+        "text": "Disclaimer: I don't think this is outright a bad game, but it just isn't for me What I thought I was getting: A JRPG with time loop mechanics and a good story What I got: A visual novel with a tiny JRPG stapled to it with extremely juvenile writing. The type of people who will enjoy this game: Fans of Undertale I made it almost an hour in and had to tap out when I realized I was falling asleep during the combat tutorial due to the CONSTANT interruptions because the game is more concerned with being quirky and HiLaRiOuS than being first and foremost: a game."
+      },
+      {
+        "title": "Ikenfell",
+        "voted_up": true,
+        "playtime_h": 5.1,
+        "text": "Very polished, extremely well done game. It's takes it's roots from jrpg's, but somehow simplified gameplay make it more modern view on the genre. It's also a stress-free game, where you can save your game easily, and if you lose a battle the game just let you restart the last battle. It's highly playable, enjoyable game, totally recommended! A."
+      },
+      {
+        "title": "Ikenfell",
+        "voted_up": true,
+        "playtime_h": 0.18,
+        "text": "While I have to admit, this is definitely NOT my play style in the slightest, this game actually seems to have a bit of charm to it. If you're after a game that has a vibe like the old Nintendo GBA style games and plays similar to most JRPGs, this is probably going to be right up your alley. Again, not my thing, but I think this is going to be a great game for the right person. 7/10"
+      },
+      {
+        "title": "Long Gone Days",
+        "voted_up": true,
+        "playtime_h": 18.12,
+        "text": "Very interesting mechanically and thematically, especially for a jrpg. Good story, colorful cast, nice artstyle, atmospheric soundtrack. Made for a unique and memorable tone, pretty good experience overall."
+      },
+      {
+        "title": "OneShot",
+        "voted_up": true,
+        "playtime_h": 9.6,
+        "text": "An unexpected gem, didn't thought much about the game coming in, but left with a new favorite. While being so short, it manages to do so much. The sheer spectrum of emotions. Absence of enemies felt weird at the start, i've expected it to be like jrpg but i appreciated it more and more, i don't have to get torn from the story and beat another common foe, the world is dying, everyone is rooting for you, you are the only hope. It really felt as i was the part of the story and ~8 hours that i spent playing felt like days. Plot, characters, music, art, level design everything is at its best. If you don't mind narrative based games, give it a try."
+      },
+      {
+        "title": "Ikenfell",
+        "voted_up": false,
+        "playtime_h": 1.75,
+        "text": "pretty shallow story with one dimensional characters and the usual jrpg combat with \"press on time deal more/receive less\", if you're sucker for queer witch kids jrpg, then go for it, otherwise hard pass :D"
+      }
+    ]
+  },
+  {
+    "cluster_id": 27,
+    "cluster_stats": {
+      "reviews": 66,
+      "games_present": 11,
+      "recommend_rate": 1.0,
+      "median_playtime_h": 11.95,
+      "dominant_game": "Small Saga",
+      "dominant_game_share": 0.2879
+    },
+    "representative_reviews": [
+      {
+        "title": "Meg's Monster",
+        "voted_up": true,
+        "playtime_h": 3.88,
+        "text": "Thanks to my friend for gifting this for my birthday! Solid game with lots of little details, excellent music, and some really sweet story. Definitely worth playing."
+      },
+      {
+        "title": "Meg's Monster",
+        "voted_up": true,
+        "playtime_h": 8.7,
+        "text": "I LOVED this game. A beautiful little character-driven RPG full of twists and turns that you will NOT see coming. You'll see some of them, but it'll also surprise you; I promise! I fell in love with all of the characters and their constantly evolving relationships with one another. Highly, HIGHLY recommended. Oh, just fantastic character designs and spritework, and a beautiful soundtrack, to boot!"
+      },
+      {
+        "title": "In Stars And Time",
+        "voted_up": true,
+        "playtime_h": 40.4,
+        "text": "This is game has become my favourite game of all time! It's just an impeccable game with a moving story and incredibly well written characters. I could not recommend this game enough!"
+      },
+      {
+        "title": "In Stars And Time",
+        "voted_up": true,
+        "playtime_h": 5.75,
+        "text": "Love the characters, Love the gameplay, and love the story highly recommend this game."
+      },
+      {
+        "title": "Small Saga",
+        "voted_up": true,
+        "playtime_h": 25.17,
+        "text": "Genuinely a really good game! I had a lot of fun with the art style, characters, and story. I can tell someone put a lot of time and effort into this game and it is easy to see where inspiration came from for this game :) 10/10 from me!"
+      },
+      {
+        "title": "Small Saga",
+        "voted_up": true,
+        "playtime_h": 20.07,
+        "text": "This is legit one of my favorite games of all time. It's very lovingly made, it is easy to see in the details. Also banger soundtrack!"
+      },
+      {
+        "title": "Ikenfell",
+        "voted_up": true,
+        "playtime_h": 24.17,
+        "text": "The best game about a magic academy I've ever played. And the soundtrack is pop rocks and liquid fire."
+      },
+      {
+        "title": "Ikenfell",
+        "voted_up": true,
+        "playtime_h": 16.88,
+        "text": "Just a fantastic beautiful little game. The story is on point, and the music SLAPS HARD AF. If you do not own this game GET IT. YOU WILL THANK YOURSELF."
+      },
+      {
+        "title": "OneShot",
+        "voted_up": true,
+        "playtime_h": 6.6,
+        "text": "Good soundtrack, characters, and game overall"
+      },
+      {
+        "title": "OneShot",
+        "voted_up": true,
+        "playtime_h": 5.28,
+        "text": "Great atmosphere and soundtrack, gameplay is interesting and the story is really interesting so far"
+      },
+      {
+        "title": "To the Moon",
+        "voted_up": true,
+        "playtime_h": 0.9,
+        "text": "great game with an amazing story & soundtrack"
+      },
+      {
+        "title": "To the Moon",
+        "voted_up": true,
+        "playtime_h": 4.92,
+        "text": "I've played this game almost ten years ago, and just for the sake of reminiscing I wanted to play it once more. Loved the story, the characters, even more so the music that has still stuck with me since the first time I played"
+      }
+    ]
+  },
+  {
+    "cluster_id": 12,
+    "cluster_stats": {
+      "reviews": 63,
+      "games_present": 10,
+      "recommend_rate": 0.9365,
+      "median_playtime_h": 11.87,
+      "dominant_game": "Baldur's Gate 3",
+      "dominant_game_share": 0.4127
+    },
+    "representative_reviews": [
+      {
+        "title": "In Stars And Time",
+        "voted_up": true,
+        "playtime_h": 32.38,
+        "text": "I spent 4 straight days playing this game, averaging about 6.5 hours of playtime per day. I barely played anything else, and I am so glad I spent this time with this game. The characters are so well fleshed out, and the story is so emotionally driven."
+      },
+      {
+        "title": "Small Saga",
+        "voted_up": false,
+        "playtime_h": 8.28,
+        "text": "8-9 hours to beat the game, which is okay but not great. The combat was also very, very easy, with me dying once throughout the 8-9 hours. The story was maybe a 6/10, and is quite heavy on the woke messaging."
+      },
+      {
+        "title": "Small Saga",
+        "voted_up": true,
+        "playtime_h": 7.12,
+        "text": "6-7 hour experience with all side quests done. Pretty charming experience, though the ending is a bit sudden. Mad respect for the rage ability having different lines for each enemy. The attention to detail is crazy good."
+      },
+      {
+        "title": "Ikenfell",
+        "voted_up": true,
+        "playtime_h": 26.72,
+        "text": "Best 28 hours spent. Great story telling and side quest. Each character has a purpose both in story and combat. Characters has person dev throughout the game. 9/10 would recommend."
+      },
+      {
+        "title": "Ikenfell",
+        "voted_up": true,
+        "playtime_h": 3.8,
+        "text": "I played for 3.8 hours and I really love this game. You really have to battle a lot and level up to beat the bosses. It is just enough of a challenge to not get you frustrated and the story is quite awesome."
+      },
+      {
+        "title": "Long Gone Days",
+        "voted_up": true,
+        "playtime_h": 13.65,
+        "text": "about 14 hours for a playthrough. Good story, nice cut scene art and music. Combat and puzzles are more of a means to get through to the next story bit and not terribly difficult. Nice way to spend a weekend."
+      },
+      {
+        "title": "Finding Paradise",
+        "voted_up": true,
+        "playtime_h": 3.7,
+        "text": "Four hours i wish could have this game take away again"
+      },
+      {
+        "title": "To the Moon",
+        "voted_up": true,
+        "playtime_h": 4.17,
+        "text": "Thought it was kind of slow in the beginning, but when I finished 4 hours had passed so I guess I had fun. Peak game tho."
+      },
+      {
+        "title": "OneShot",
+        "voted_up": true,
+        "playtime_h": 8.05,
+        "text": "Got only 3 hours of sleep because of this game. (Probably need to revisit a few dialogues)"
+      },
+      {
+        "title": "OneShot",
+        "voted_up": true,
+        "playtime_h": 12.42,
+        "text": "i liked it so much that i completed all the achivements in 2 days"
+      },
+      {
+        "title": "Finding Paradise",
+        "voted_up": true,
+        "playtime_h": 5.2,
+        "text": "you're telling me you don't have 5 hours to play this game. close dead by daylight and have fun for once in your life."
+      },
+      {
+        "title": "To the Moon",
+        "voted_up": false,
+        "playtime_h": 0.78,
+        "text": "I suffered through 47 minutes of gameplay. The most intriguing thing about this game is its extremely high rating."
+      },
+      {
+        "title": "Baldur's Gate 3",
+        "voted_up": false,
+        "playtime_h": 11.87,
+        "text": "I gave it 11 hours or so. Reload Simulator."
+      }
+    ]
+  },
+  {
+    "cluster_id": 3,
+    "cluster_stats": {
+      "reviews": 60,
+      "games_present": 8,
+      "recommend_rate": 1.0,
+      "median_playtime_h": 9.71,
+      "dominant_game": "OneShot",
+      "dominant_game_share": 0.4
+    },
+    "representative_reviews": [
+      {
+        "title": "In Stars And Time",
+        "voted_up": true,
+        "playtime_h": 25.42,
+        "text": "\"I DIDN'T NEED TO REDO ALL OF THAT?????\" and \"♥♥♥♥♥♥♥♥ NOW I GOTTA DO THIS ALL AGAIN\" were common phrases I said. Still peak"
+      },
+      {
+        "title": "In Stars And Time",
+        "voted_up": true,
+        "playtime_h": 49.77,
+        "text": "Peak game Don't spoil yourself Just play it"
+      },
+      {
+        "title": "OneShot",
+        "voted_up": true,
+        "playtime_h": 9.97,
+        "text": "game so peak, the final decision had me pondering for hours"
+      },
+      {
+        "title": "OneShot",
+        "voted_up": true,
+        "playtime_h": 4.78,
+        "text": "holy peak. Also if you have wallpaper engine and play this I suggest turning it off. you might get stuck on something"
+      },
+      {
+        "title": "Small Saga",
+        "voted_up": true,
+        "playtime_h": 6.83,
+        "text": "Absolute peak. It's a short experience, no grinding necessary; amazing story, amazing music, amazing graphics. I wish I knew about this game sooner."
+      },
+      {
+        "title": "Small Saga",
+        "voted_up": true,
+        "playtime_h": 9.83,
+        "text": "Ts so PEAK 🙏 Please please PLEASE play this masterpiece of a game."
+      },
+      {
+        "title": "To the Moon",
+        "voted_up": true,
+        "playtime_h": 7.33,
+        "text": "this is complete and utter PEAK no cap on god bro"
+      },
+      {
+        "title": "ELDEN RING",
+        "voted_up": true,
+        "playtime_h": 326.52,
+        "text": "It's like peak I guess"
+      },
+      {
+        "title": "ELDEN RING",
+        "voted_up": true,
+        "playtime_h": 374.07,
+        "text": "The literal definition of peak."
+      },
+      {
+        "title": "Baldur's Gate 3",
+        "voted_up": true,
+        "playtime_h": 248.3,
+        "text": "Peak. Besides Act 3 that was... That was something."
+      },
+      {
+        "title": "Finding Paradise",
+        "voted_up": true,
+        "playtime_h": 4.92,
+        "text": "Genuinely, it's the most emotional and good game i played its literally peak"
+      },
+      {
+        "title": "Finding Paradise",
+        "voted_up": true,
+        "playtime_h": 5.23,
+        "text": "peak game good and sad story 10\\10 one of the emotioal game l ever played"
+      }
+    ]
+  },
+  {
+    "cluster_id": 19,
+    "cluster_stats": {
+      "reviews": 50,
+      "games_present": 8,
+      "recommend_rate": 0.9,
+      "median_playtime_h": 4.91,
+      "dominant_game": "Impostor Factory",
+      "dominant_game_share": 0.42
+    },
+    "representative_reviews": [
+      {
+        "title": "In Stars And Time",
+        "voted_up": true,
+        "playtime_h": 55.95,
+        "text": "A real indie gem and an emotional rollercoaster. Super impressed with all the little details and foreshadowing... this thing has layers!!! The true ending left me utterly devastated."
+      },
+      {
+        "title": "In Stars And Time",
+        "voted_up": true,
+        "playtime_h": 32.38,
+        "text": "Perfect ending, I have no words, just brilliant."
+      },
+      {
+        "title": "OneShot",
+        "voted_up": true,
+        "playtime_h": 8.83,
+        "text": "pretty good story + the main dude you play as likes pancakes and i like pancakes too which is good. Very memorable ending and the true ending was the cherry on top for me, 10/10"
+      },
+      {
+        "title": "OneShot",
+        "voted_up": true,
+        "playtime_h": 3.27,
+        "text": "Haven't even finished the game, but I definitely know that the ending's about to be amazing."
+      },
+      {
+        "title": "Small Saga",
+        "voted_up": false,
+        "playtime_h": 6.87,
+        "text": "Game starts strong but then goes off on an internet fueled tangent; which I'd be more tolerant of if the story still followed through with the opening premise, but it doesn't. [spoiler]You kill no humans in this game. What a disappointment.[/spoiler]"
+      },
+      {
+        "title": "Ikenfell",
+        "voted_up": true,
+        "playtime_h": 15.62,
+        "text": "Final Update : Worse then I could have imagined. No pay off for the end. Final boss is a \"out of no where\" but also not really and it's a big let down. They gloss over any actual impact the end could have had for a non-offensive ending. If everyone in this world is gay, how do they keep the population? Come on guys, you want inclusion but you didn't actually have inclusion. That aside, the game-play is good and the only thing that carries the game. Seeing Ze and Zir is just so out of place. My theory was not correct but would have been a much better and dramatic ending, you know actual writing! Why is the last boss easier then the 2nd to last boss? The \"lost sister\" has no pay off and she doesn't deserve the happy ending she got because there was only a few scenes showing her that were there to make you think something else. I did call/predict the one twist that came true at the very very end after the credits. (Like I said predictable but also not predictable but in a very bad way) Oh and the end credits song... wow what a pile of ♥♥♥♥♥. Why did only a few of the characters get lyrics in their \"theme song\"... I could go on for paragraphs but I'll stop, it's not worth my time. I never give scores but for this I have to. Story 1/10 Game-play 9/10. Update 2 : Yet it still manages to be worse. I thought it was very predictable before and it just keeps NOT surprising me because I can tell what's going to happen. Also just about every other character is just so badly written and cookie cutter forced to be \"non-conforming\" it's laughable. I mean if you want to do inclusion at least TRY and be good about it. The game-play is the ONLY reason I'm still playing. Update : Oh god the writing got worse! At least the combat is fun. Mixed so far. Most of the characters are annoying and VERY cookie cutter stereotypes. Also why is it that everyone in the game has to be LGBT? Look, I'm an ally and all but come on, not everyone is \"gender fluid\". You want inclusion, I get that, that's great. However that also means you need some other types in there too. You go all in like that and it just feels forced. Also why are kids/very young teens constantly saying someone else is cute or hot? Needless to say the writing is pretty rough. Gameplay is ok so far. Some annoying enemies."
+      },
+      {
+        "title": "Long Gone Days",
+        "voted_up": true,
+        "playtime_h": 13.93,
+        "text": "First played this ages ago and I'm so happy it's been completed, great ending, I love Lynn"
+      },
+      {
+        "title": "Ikenfell",
+        "voted_up": true,
+        "playtime_h": 9.93,
+        "text": "Very fun game, challenging in parts which felt good, good story and characters, a lil irritated at the epilogue as I would have prefer to have some decision over the ending in regards to who and if anyone I ended up staying with (gilda > pretrissia) but ye good writing."
+      },
+      {
+        "title": "Finding Paradise",
+        "voted_up": true,
+        "playtime_h": 12.33,
+        "text": "The story was incredible, and so was the ending twist. I was going to still leave a recommended review before that, but I wasn't as moved, but knowing what I know about the ending made my heart shatter into a million pieces and it BROKE me. Another absolutely beautiful piece of work from these people. Highly recommend."
+      },
+      {
+        "title": "Finding Paradise",
+        "voted_up": true,
+        "playtime_h": 1.08,
+        "text": "I remember this warming my heart and making me cry. I only wish I left a review sooner so that the story was fresh in my mind but 100% recommend. I love the main characters too."
+      },
+      {
+        "title": "To the Moon",
+        "voted_up": true,
+        "playtime_h": 4.65,
+        "text": "\"The ending isn't any more important than any of the moments leading to it.\" Such a wonderful experience to have on a afternoon, everyone should give this game a try!"
+      },
+      {
+        "title": "To the Moon",
+        "voted_up": true,
+        "playtime_h": 5.53,
+        "text": "This game punched me in the gut. Felt the story was dragging on at first and was starting to get annoyed. Then, one scene... everything clicked, and the waterworks never stopped till the end. This game is purely for the story not the gameplay fyi. Heartfelt, wholesome and beautiful."
+      },
+      {
+        "title": "To the Moon",
+        "voted_up": false,
+        "playtime_h": 3.12,
+        "text": "It was a solid play. Gave it a shot after seeing the overwhelming positive reviews. I'd be lying if I said that the endinghad me in tears but I could also see how some people could feel that way. + narrative music characters - weak ending to some (me)"
+      },
+      {
+        "title": "Finding Paradise",
+        "voted_up": false,
+        "playtime_h": 3.82,
+        "text": "Not what I expected. Sad ending. Sad story. All in someone elses head. Honestly, without spoiling anything, borderline not even a game."
+      }
+    ]
+  },
+  {
+    "cluster_id": 11,
+    "cluster_stats": {
+      "reviews": 46,
+      "games_present": 9,
+      "recommend_rate": 0.9348,
+      "median_playtime_h": 7.17,
+      "dominant_game": "Long Gone Days",
+      "dominant_game_share": 0.2174
+    },
+    "representative_reviews": [
+      {
+        "title": "Meg's Monster",
+        "voted_up": true,
+        "playtime_h": 4.57,
+        "text": "beautiful pixel art, diabetes touching story, couldn’t put it down 👌👌👌"
+      },
+      {
+        "title": "Meg's Monster",
+        "voted_up": true,
+        "playtime_h": 3.9,
+        "text": "Beautiful heartwarming story, great pixel graphics and BGM, reminds me those simple gaming time."
+      },
+      {
+        "title": "In Stars And Time",
+        "voted_up": true,
+        "playtime_h": 74.28,
+        "text": "Great game, great story, good pixel art, i did fill a few frames of pixel art felt a bit off but a majority of it was very good."
+      },
+      {
+        "title": "In Stars And Time",
+        "voted_up": true,
+        "playtime_h": 91.22,
+        "text": "At the fist this game was not that fun for me until the act 2 and sometimes it was gettin' on ma nerves but JIZZ - now look at my play time . Literally I played this game 3 TIMES. seriously this is one of the best pixel art game with Contains all the emotions of Character well \"I Don't wanna say more because for spoil"
+      },
+      {
+        "title": "Small Saga",
+        "voted_up": true,
+        "playtime_h": 14.82,
+        "text": "Amazing pixel art, outstanding soundtrack, and a captivating story makes this turn-based rpg simply a joy to play. The game really gives strong vibes of many of the cRPGs of the 80s and early 90s. I think anyone that enjoys turn-based RPGs, pixel art, and the nostalgia of retro games will enjoy this game. I honestly hope they make a sequel one day to continue the adventures of Verm and his friends."
+      },
+      {
+        "title": "Small Saga",
+        "voted_up": true,
+        "playtime_h": 7.15,
+        "text": "Great Storytelling, simple gameplay, great pixelart. Overall, a great chill rpg to play on a weekend."
+      },
+      {
+        "title": "Ikenfell",
+        "voted_up": true,
+        "playtime_h": 32.38,
+        "text": "Adorable pixel art and animations. Great feeling captured in just a few pixels. Very LGBT+ friendly, with cute romance story bits between the save-the-world story and turn-based combat. Combat gets a bit samey-by the end, but changing your team helps provide interest. Plays great on Steam Deck."
+      },
+      {
+        "title": "Ikenfell",
+        "voted_up": true,
+        "playtime_h": 7.18,
+        "text": "pixel rpg. combat mechanics are unique, though not groundbreaking. good and wholesome story but a bit cliche. art is decent, especially the ending scenes. a lot of gay romance."
+      },
+      {
+        "title": "To the Moon",
+        "voted_up": true,
+        "playtime_h": 4.58,
+        "text": "pixel games shouldn't make me cry this much. THE BEST!!"
+      },
+      {
+        "title": "To the Moon",
+        "voted_up": true,
+        "playtime_h": 3.27,
+        "text": "Went into it thinking it was going to be another generic boring pixel art game, came out in tears and with a snotty nose </3"
+      },
+      {
+        "title": "Long Gone Days",
+        "voted_up": true,
+        "playtime_h": 9.42,
+        "text": "Great looking pixel art and a good story (so far!) with things not commonly seen in the genre. Music is nice and the morale system is an interesting mechanic- looking forward to the conclusion"
+      },
+      {
+        "title": "Long Gone Days",
+        "voted_up": false,
+        "playtime_h": 0.15,
+        "text": "Cringe writing by an elementary school edgelord. Ugly top-down pixel art movement in contrast with a completely differently styled battles with no depth or strategy. The game requires manual saving without warning you when you live. I'm not reliving those 8 minutes again. No wonder this is part of a cheap bundle."
+      },
+      {
+        "title": "Ikenfell",
+        "voted_up": false,
+        "playtime_h": 0.27,
+        "text": "What is it with the square inch pixel art in these games? Is everyone playing on 14\" EGA screens or something? I have a 4K 34\", I imagine I'm not the only one. At least make the text smaller and easier to read."
+      },
+      {
+        "title": "Small Saga",
+        "voted_up": false,
+        "playtime_h": 1.57,
+        "text": "Adorable art, engaging setting, inoffensive gameplay, completely ruined by insidious anti-civilization messaging."
+      }
+    ]
+  },
+  {
+    "cluster_id": 15,
+    "cluster_stats": {
+      "reviews": 46,
+      "games_present": 11,
+      "recommend_rate": 0.8696,
+      "median_playtime_h": 19.95,
+      "dominant_game": "ELDEN RING",
+      "dominant_game_share": 0.3478
+    },
+    "representative_reviews": [
+      {
+        "title": "Meg's Monster",
+        "voted_up": true,
+        "playtime_h": 2.0,
+        "text": "♥♥♥♥ THE STORY. IT MADE ME FEEL"
+      },
+      {
+        "title": "Meg's Monster",
+        "voted_up": true,
+        "playtime_h": 2.62,
+        "text": "Yoo monster is actually so good my friend brought me monster cause i’m 13 and ♥♥♥♥ got me high as hell like i was laughing and doing stupid stuff all over the place and my English teacher asked me why are my eyes are so red, like ♥♥♥♥♥ i’m high leave me alone 💀💀💀"
+      },
+      {
+        "title": "In Stars And Time",
+        "voted_up": true,
+        "playtime_h": 33.37,
+        "text": "I hate the smell of burnt sugar"
+      },
+      {
+        "title": "In Stars And Time",
+        "voted_up": true,
+        "playtime_h": 19.72,
+        "text": "IM ♥♥♥♥♥♥♥ PISSED IM ♥♥♥♥♥♥♥ PISSED IM ♥♥♥♥♥♥♥ PISSED IM ♥♥♥♥♥♥♥ PISSED IM ♥♥♥♥♥♥♥ PISSED I LOST FOUR! HOURS WHAT THE HELL HAPPED :C"
+      },
+      {
+        "title": "Small Saga",
+        "voted_up": true,
+        "playtime_h": 30.52,
+        "text": "♥♥♥♥ those two stupid ass french birds 10/10 game"
+      },
+      {
+        "title": "Small Saga",
+        "voted_up": true,
+        "playtime_h": 1.65,
+        "text": "Hey wow this is great, came here from a ♥♥♥♥♥♥♥♥ and was not disappointed."
+      },
+      {
+        "title": "Ikenfell",
+        "voted_up": true,
+        "playtime_h": 1.58,
+        "text": "1/3 the price of ♥♥♥♥♥♥♥♥♥ ♥♥♥♥♥♥♥, has actual heart, cute characters, doesnt fund trans genocide, and theres little cat meow meows x333"
+      },
+      {
+        "title": "Ikenfell",
+        "voted_up": false,
+        "playtime_h": 26.4,
+        "text": "Excellent everything, nothing against the pronounces and gay stuff, loved it... but ♥♥♥♥♥♥♥, ♥♥♥♥♥♥♥ change the \"ze\" and 'zir\" ♥♥♥♥♥♥♥ BS, WTF is that. really takes away from your ♥♥♥♥♥♥♥ story. use, \"they\" or \"them\" I think is what you're looking for. Sorry Ima, they did you dirty, hunny."
+      },
+      {
+        "title": "OneShot",
+        "voted_up": true,
+        "playtime_h": 14.87,
+        "text": "This game is so ♥♥♥♥♥♥♥ beautiful"
+      },
+      {
+        "title": "OneShot",
+        "voted_up": true,
+        "playtime_h": 10.33,
+        "text": "best 5 ♥♥♥♥♥♥♥ euros of my life dude, this game is HELLA fun, the way the game makes you actually search your computer to progress in certain parts is actually very cool. only down side is while doing solstice ending prophet bot made me feel like im an absolute piece of ♥♥♥♥, by him telling niko that [spoiler]everything is fake and i basically control the world they are in, also seeing niko sad after he heard about this made me feel more like a piece of ♥♥♥♥[/spoiler] edit: forgot to mention that the solstice ending made me super ♥♥♥♥♥♥♥ sad but at the same time super ♥♥♥♥♥♥♥ happy (also, i dont think getting wme is necessary if you are playing on a pc, i would get it tho just for the emoticons, they are super cool) 10/10"
+      },
+      {
+        "title": "To the Moon",
+        "voted_up": true,
+        "playtime_h": 7.98,
+        "text": "Now I know how to fold a paper rabbit. 10/10"
+      },
+      {
+        "title": "To the Moon",
+        "voted_up": true,
+        "playtime_h": 4.18,
+        "text": "I CRIED SO ♥♥♥♥♥♥♥ MUCH"
+      },
+      {
+        "title": "OneShot",
+        "voted_up": false,
+        "playtime_h": 0.77,
+        "text": "Game straight up calls you (the player) a \"god\" as soon as you start the game, what is this ♥♥♥♥♥♥♥♥. Get out of here, ♥♥♥♥♥♥♥ story writing."
+      },
+      {
+        "title": "Impostor Factory",
+        "voted_up": false,
+        "playtime_h": 3.97,
+        "text": "WHAT THE ♥♥♥♥ WAS THIS STUPID ASS GAME?!"
+      }
+    ]
+  },
+  {
+    "cluster_id": 17,
+    "cluster_stats": {
+      "reviews": 44,
+      "games_present": 11,
+      "recommend_rate": 0.9545,
+      "median_playtime_h": 8.47,
+      "dominant_game": "Small Saga",
+      "dominant_game_share": 0.1818
+    },
+    "representative_reviews": [
+      {
+        "title": "Meg's Monster",
+        "voted_up": true,
+        "playtime_h": 5.12,
+        "text": "Very cute game. I loved the story-line and how much it develops the characters. Really well-made game. 10/10 would recommend"
+      },
+      {
+        "title": "In Stars And Time",
+        "voted_up": true,
+        "playtime_h": 24.48,
+        "text": "some dialogs in this game really cut deep... it's a 10/10 for me"
+      },
+      {
+        "title": "In Stars And Time",
+        "voted_up": true,
+        "playtime_h": 18.57,
+        "text": "Wow. Story is amazing!! Gameplay is okay, i guess. 9/10!"
+      },
+      {
+        "title": "Small Saga",
+        "voted_up": true,
+        "playtime_h": 7.85,
+        "text": "Absolute master piece 10/10, the story telling is amazing and the combat system hits the spot."
+      },
+      {
+        "title": "Small Saga",
+        "voted_up": true,
+        "playtime_h": 9.42,
+        "text": "Actual 10/10 game, the story, the artstyle, the music, the gameplay, the dialog, everything about this game is perfect. I cannot recommend this game enough."
+      },
+      {
+        "title": "Ikenfell",
+        "voted_up": true,
+        "playtime_h": 32.03,
+        "text": "A delightful little game with a charming art style and a surprisingly deep story. 9/10. (I took one point off for the deeply unsettling star thing.)"
+      },
+      {
+        "title": "Long Gone Days",
+        "voted_up": true,
+        "playtime_h": 2.15,
+        "text": "I am so impressed with this game and I honestly wish there were more like it. 10/10: Art is amazing, the combat is straightforward (and not motionsickness inducing which is a big win for me!), and it tackles some serious topics. I’m having a hard time putting it down and it’s still in early access, might replay the entire thing once the final product is released!"
+      },
+      {
+        "title": "Ikenfell",
+        "voted_up": true,
+        "playtime_h": 4.97,
+        "text": "great characters + great story = 10/10 game"
+      },
+      {
+        "title": "Long Gone Days",
+        "voted_up": true,
+        "playtime_h": 9.0,
+        "text": "Good Story. Good Gameplay. Challenging. Overall 9.0 out of 10."
+      },
+      {
+        "title": "OneShot",
+        "voted_up": true,
+        "playtime_h": 11.08,
+        "text": "An absolutely amazing game with great characters, fun puzzles, and a great story. A solid 9.5/10 on my scale Edit: I just completed a Solstice Run, easily brought this game to a 10/10"
+      },
+      {
+        "title": "OneShot",
+        "voted_up": true,
+        "playtime_h": 7.18,
+        "text": "this game left me speechless, and it will be the best 10 dollars any living being will ever spend i'd give up all of my assets for a story like this story 11/10 gameplay 11/10 extra features 11/10 overall 100/10"
+      },
+      {
+        "title": "To the Moon",
+        "voted_up": true,
+        "playtime_h": 3.82,
+        "text": "Probably the best story in an indie game I ever experienced. 9/10"
+      },
+      {
+        "title": "Impostor Factory",
+        "voted_up": false,
+        "playtime_h": 5.23,
+        "text": "10/10 story, but its not really a game is it?"
+      },
+      {
+        "title": "ELDEN RING",
+        "voted_up": false,
+        "playtime_h": 73.52,
+        "text": "its a ps port, so 0/10"
+      }
+    ]
+  },
+  {
+    "cluster_id": 23,
+    "cluster_stats": {
+      "reviews": 44,
+      "games_present": 11,
+      "recommend_rate": 0.8636,
+      "median_playtime_h": 10.54,
+      "dominant_game": "In Stars And Time",
+      "dominant_game_share": 0.2045
+    },
+    "representative_reviews": [
+      {
+        "title": "Meg's Monster",
+        "voted_up": true,
+        "playtime_h": 11.75,
+        "text": "This is the best game I've played in years. The story is top-tier, a tearjerker if you will. The action this game built into the narrative is amazing. There are an insane number of twists and turns (some you see coming, others you don't). There are very few games I feel deeply, hell let alone write a review about, but this one touched me. Go play this, you won't be disappointed."
+      },
+      {
+        "title": "Meg's Monster",
+        "voted_up": true,
+        "playtime_h": 7.52,
+        "text": "I never do reviews I rarely do but I had to for this one: I just wanted to say, that I adored this game more than I thought i would. The characters are all very loveable and easy to get attached to! If you crave monster and human games kind of like the undertale series then this game is for sure it. I highly recommend it, and you'll cry a lot too, this game will pull your heartstrings."
+      },
+      {
+        "title": "In Stars And Time",
+        "voted_up": true,
+        "playtime_h": 38.72,
+        "text": "This game has done irreversible damage to my psyche to the degree it has literally reshaped my identity. This game is not difficult, the fights are simple enough, even an RPG hater should like this in my opinion. Ironically giving a review is difficult because so much of the game is spoiler-heavy."
+      },
+      {
+        "title": "In Stars And Time",
+        "voted_up": true,
+        "playtime_h": 25.05,
+        "text": "Apparently I still haven't reviewed this game. Alright. It's good. Like, really good. Play it. Please, I beg of you, just play it."
+      },
+      {
+        "title": "Small Saga",
+        "voted_up": true,
+        "playtime_h": 12.47,
+        "text": "I suck at writing reviews but the game's really good (Shoutout to my friend for buying me the game for my birthday)"
+      },
+      {
+        "title": "Small Saga",
+        "voted_up": true,
+        "playtime_h": 14.62,
+        "text": "I never write reviews before finishing a game, i rarely write reviews at all...but this game, damn, I did not think it would hit that hard. I did not know what to expect but it wasn't this. Do yourself a favour and give it a try, right now."
+      },
+      {
+        "title": "Baldur's Gate 3",
+        "voted_up": true,
+        "playtime_h": 139.2,
+        "text": "Anything I could say has already been said. 3 thumbs up"
+      },
+      {
+        "title": "Ikenfell",
+        "voted_up": true,
+        "playtime_h": 32.27,
+        "text": "👍 I don't want to write a review for this game, but I do want to give this game a thumbs up to help the games ratings because I enjoyed my experience with it 👍 Great game. Though definitely could've done with cutting some content. There definitely is unnecessary padding in this game."
+      },
+      {
+        "title": "Long Gone Days",
+        "voted_up": true,
+        "playtime_h": 228.83,
+        "text": "i never written a review before, i just want to give it a thumbs up because the story line, characters, art, everything is just chef's kiss"
+      },
+      {
+        "title": "OneShot",
+        "voted_up": true,
+        "playtime_h": 10.02,
+        "text": "Literally my first Steam review ever. I cannot begin to describe how deeply this game resonated with me. You just have to experience it for yourself."
+      },
+      {
+        "title": "OneShot",
+        "voted_up": true,
+        "playtime_h": 10.53,
+        "text": "Dude just stop looking at reviews and please play this game"
+      },
+      {
+        "title": "To the Moon",
+        "voted_up": false,
+        "playtime_h": 5.62,
+        "text": "Played the game per recommendation by a lot of friends, encouraged by \"overwhelmingly positive reviews\", but this really is just not for me -- and I'm not even talking about the \"gameplay\". Story was not bad, but I really can't find it in me to recommend this. Touching BGM though."
+      },
+      {
+        "title": "To the Moon",
+        "voted_up": false,
+        "playtime_h": 3.62,
+        "text": "You guys are such glazers man nah nah nah that was the most lukewarm story I've ever done sat through. One of the top games when I sort my library by steam review score you gremlins need to get real. Just a RPGmaker walking simulator with random barebone \"puzzles\" breaking up the dialogue for the first 2/3rd of the game. The music was pretty good until I heard each track for the 50th time while working my way through the text walls. I couldn't care less about the old dude croaking but admittedly I am a bit invested in the main characters knowing there's 2 sequels. But reviews at 96% come on now come on now breh"
+      },
+      {
+        "title": "Impostor Factory",
+        "voted_up": false,
+        "playtime_h": 1.17,
+        "text": "maybe it's about me but i'm VERY bored of the game. i'll probably give it another go and update this review after that, but for now, even though it has some interesting stuff going on it doesn't excite me."
+      }
+    ]
+  },
+  {
+    "cluster_id": 25,
+    "cluster_stats": {
+      "reviews": 44,
+      "games_present": 9,
+      "recommend_rate": 0.8409,
+      "median_playtime_h": 6.33,
+      "dominant_game": "Impostor Factory",
+      "dominant_game_share": 0.2273
+    },
+    "representative_reviews": [
+      {
+        "title": "Meg's Monster",
+        "voted_up": false,
+        "playtime_h": 5.95,
+        "text": "I just don't see what the hype is about. The actual gameplay is ~ 10-20 minutes. The rest is just a linear, pretty mediocre story. It becomes so incredibly tedious by the end of it, that I just started clicking without reading any of it, just to get it over with. There are many better RPG like indie stories out there that are much more worthwhile than this."
+      },
+      {
+        "title": "Meg's Monster",
+        "voted_up": true,
+        "playtime_h": 6.4,
+        "text": "This game is simply amazing, I've 100%'d it in a single afternoon in 6 hours and a half, the story is amazing, the characters are amazing, the pixel art is so good, the story is also so well paced, combat is easy but still really fun. This really feels like a \"Odencat\" game, they do amazing games, if you liked any other games from them and you liked them, then you should really give this one a try. If you want to play this as your first and you end up liking it, I recommend you to check the rest of the games! I just love the Odencat world they are making, I loved all the \"afterlife\" story that it is told in bear's restaurant and fishing paradiso, and I've love the story that it is told in snowman story. This game tells something different from the same world. I can't wait for future games with more stories about this world they have been cooking up! And I can know for sure that I'll love future games as much as the ones that I've already played. I love Odencat company and their creations as a whole!"
+      },
+      {
+        "title": "In Stars And Time",
+        "voted_up": true,
+        "playtime_h": 24.08,
+        "text": "The story, dialogues, lore, and art are phenomenal. What holds this game back is a bare bones combat system and some mind-boggling design decisions. Many a time the game needs you to interact with a specific object or talk to a specific person in order to progress, sometimes offering vague hints, resulting in endless looping through the game until you find the thing. Doesn't matter if you've interacted with it in the past. While it ties into the themes of the story, it doesn't make it any less tedious."
+      },
+      {
+        "title": "In Stars And Time",
+        "voted_up": true,
+        "playtime_h": 30.35,
+        "text": "The dialogue in this game is so well-written that it almost overshadows its incredible worldbuilding and characters. Not only that, it uses the medium of video games excellently in order to tell its story, more than any game I have played before. I cannot recommend it enough!"
+      },
+      {
+        "title": "Small Saga",
+        "voted_up": true,
+        "playtime_h": 7.67,
+        "text": "Amazing. It's such an incredibly well made experience - because it's so tight and focused, as it's promising. There's no artificial game stretching, no grinding. It's a pretty focused game - but because of that controlled nature, it shines. The writing is great, story events are flowing, rewards and progression are tied to the story (and not random grind). There is place for things going non-linear, with a little bit of tasks and side quests, but it's all nicely tied together. The world is just well designed, fantasy adjusted to reality of rodents - giving the same vibe as Kingdoms of The Dump, playing with a different perspective on the world and doing it in many creative ways. It's a joy to play, even if this is not a very challenging experience difficulty wise - but it's just your own fable story that you can't put down."
+      },
+      {
+        "title": "Small Saga",
+        "voted_up": true,
+        "playtime_h": 18.17,
+        "text": "The writing just has absolutely no business being this good. Most AAA games aren’t written half as well or with nearly as many fully realized characters. Not a challenging game, played it and loved it in one day. Definitely worth purchasing!"
+      },
+      {
+        "title": "Ikenfell",
+        "voted_up": true,
+        "playtime_h": 26.0,
+        "text": "This game is one of the more intriguing games I have played in a long time. A well-written story with good characters. This game also has neat accessability options. Highly recommend it. Update: I want more."
+      },
+      {
+        "title": "Ikenfell",
+        "voted_up": true,
+        "playtime_h": 34.12,
+        "text": "A cute humble indie RPG, the gameplay gets repetitive after a while but I'd say if the story intrigues you, then why not, you know?"
+      },
+      {
+        "title": "OneShot",
+        "voted_up": true,
+        "playtime_h": 9.85,
+        "text": "The story, and the gameplay too, is just so good, I usually dont enjoy reading text, but in Oneshot, the story just... you stop thinking about how its a game, and you start thinking about the characters themself, you change how you play the game, just so you dont upset the characters, now knowing not quite as much, that they aern't real."
+      },
+      {
+        "title": "OneShot",
+        "voted_up": true,
+        "playtime_h": 8.58,
+        "text": "very good story game, it makes you remember (or realize) that a game doesn't have to be long or expensive to have an impact on you. Good story and character design i loved playing it."
+      },
+      {
+        "title": "To the Moon",
+        "voted_up": true,
+        "playtime_h": 7.48,
+        "text": "The base game is a short (~4h) story more than anything else. It's nice, intriguing and worth the time I'd say. The two SigCorp minisodes, even though they're much shorter than the game, really got me more invested in the characters and interested in checking out the other titles."
+      },
+      {
+        "title": "To the Moon",
+        "voted_up": true,
+        "playtime_h": 4.43,
+        "text": "I mean its alright, nothing extraordinary. Just a game with rich story, gameplay is ♥♥♥♥, controls are ♥♥♥♥, but we play these type of games just for story, aren't we? It's not too long, story is good enough, in general not bad"
+      },
+      {
+        "title": "In Stars And Time",
+        "voted_up": false,
+        "playtime_h": 13.22,
+        "text": "I really wanted to like this one but found the writing overly self-conscious, and the gameplay eventually started to drag near the end. If one or the other was more compelling, I would have enjoyed it. It's very polished and there are a lot of neat ideas!! And I can imagine younger folks finding more in the character dynamics. But just not for me at this point in my life."
+      },
+      {
+        "title": "To the Moon",
+        "voted_up": false,
+        "playtime_h": 0.77,
+        "text": "It's not worth the hype. I have played 45 minutes so far in one sitting and there isn't really anything making me want to continue, gameplay or story-wise. The dialogues in this game physically hurt me.. and I played throughout the whole House in Fata Morgana and loved it so that's saying something. I get from where the positive reviews are coming from (and there is likely more to this game that I haven't discovered yet), but I just did not enjoy the experience. The overly in-your-face simplicity and storytelling just don't make for an enjoyable experience, along with a linear design that tries hard to feel like exploration but in the end leaves you feeling trapped gameplay wise in a non-engaging loop. With all that, I am glad that so many people found it beautiful and it brought wamth to them. And glad that I tried it to see for myself."
+      }
+    ]
+  },
+  {
+    "cluster_id": 28,
+    "cluster_stats": {
+      "reviews": 42,
+      "games_present": 9,
+      "recommend_rate": 0.9762,
+      "median_playtime_h": 7.43,
+      "dominant_game": "OneShot",
+      "dominant_game_share": 0.1905
+    },
+    "representative_reviews": [
+      {
+        "title": "Meg's Monster",
+        "voted_up": true,
+        "playtime_h": 5.17,
+        "text": "Good game. Not much gameplay but nice story."
+      },
+      {
+        "title": "Meg's Monster",
+        "voted_up": true,
+        "playtime_h": 6.47,
+        "text": "Simply a beautiful game with a lovely story."
+      },
+      {
+        "title": "In Stars And Time",
+        "voted_up": true,
+        "playtime_h": 20.28,
+        "text": "An incredible story attached to an amazing RPG."
+      },
+      {
+        "title": "In Stars And Time",
+        "voted_up": true,
+        "playtime_h": 22.1,
+        "text": "Interesting plot, and gameplay that supports the story."
+      },
+      {
+        "title": "Small Saga",
+        "voted_up": true,
+        "playtime_h": 12.17,
+        "text": "one of myfav games of all time great story"
+      },
+      {
+        "title": "To the Moon",
+        "voted_up": true,
+        "playtime_h": 7.4,
+        "text": "one of the best story games out there."
+      },
+      {
+        "title": "Small Saga",
+        "voted_up": true,
+        "playtime_h": 11.53,
+        "text": "Very good game. Great story and characters."
+      },
+      {
+        "title": "Ikenfell",
+        "voted_up": true,
+        "playtime_h": 32.02,
+        "text": "Wonderful game! Loved the story and the character. <3"
+      },
+      {
+        "title": "Ikenfell",
+        "voted_up": true,
+        "playtime_h": 27.55,
+        "text": "Lovely game with lovely representation and a great story."
+      },
+      {
+        "title": "Long Gone Days",
+        "voted_up": true,
+        "playtime_h": 3.57,
+        "text": "Interesting story. Interesting gameplay. Amazing artwork."
+      },
+      {
+        "title": "Long Gone Days",
+        "voted_up": true,
+        "playtime_h": 9.52,
+        "text": "Fun game, great story reall. Cant wait for more like this"
+      },
+      {
+        "title": "OneShot",
+        "voted_up": true,
+        "playtime_h": 2.2,
+        "text": "The best story game to have ever existed."
+      },
+      {
+        "title": "To the Moon",
+        "voted_up": false,
+        "playtime_h": 6.17,
+        "text": "played this forever ago. The game is nothing but story and it was so unmemorable i can't remember a thing. I think that says a lot about a story based game"
+      }
+    ]
+  }
+]

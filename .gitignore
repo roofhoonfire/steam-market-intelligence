@@ -1,0 +1,19 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Secrets
+.env
+.env.*
+*.key
+
+# OS / Editor
+.DS_Store
+.vscode/
+
+# Generated / large data
+data/raw/
+data/features/
+data/features_baseline_11games/
+data/processed/*.parquet
