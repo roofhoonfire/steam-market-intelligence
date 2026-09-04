@@ -1,0 +1,5 @@
+reviewer_group,observable_reviewers,target,cross_owned_reviewers,cross_ownership_rate,reviewed_game_visible_rate
+benchmark,501,visible_indie_ownership,146,0.29141716566866266,0.9620758483033932
+contrast,1127,visible_aaa_ownership,532,0.4720496894409938,0.9929015084294588
+core,1053,visible_aaa_ownership,652,0.6191832858499525,0.9886039886039886
+positioning,1165,visible_aaa_ownership,470,0.4034334763948498,0.9905579399141631
